@@ -1,0 +1,8 @@
+# Generating base image from postgres and setting parameters
+FROM postgres
+ENV POSTGRES_USER=postgres
+ENV POSTGRES_PASSWORD 123456
+ENV POSTGRES_DB cardealership-db
+
+# Creating tables
+COPY cardealership_table_create.sql /docker-entrypoint-initdb.d/
