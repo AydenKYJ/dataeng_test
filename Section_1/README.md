@@ -11,6 +11,8 @@ Step 2: Create necessary functions such as:
 
 Step 3: Read dataset and apply functions to combine, process, and pricecheck
 
+(Perpended 0s can be ignored when pd.to_numeric is applied to the column for price)
+
 Step 4: Exported and printed sample output for checks and did additional cleaning if when necessary (Repeat as required)
 
 Step 4: Open terminal to schedule cron job
