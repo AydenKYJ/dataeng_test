@@ -15,7 +15,7 @@
 13,Charles Parker,215.537283,Charles,Parker,True
 14,Susan Hess,38.35997063,Susan,Hess,False
 15,Kiara Collier,204.1825486,Kiara,Collier,True
-16,Mr. Scott Martinez,165.8514289,Mr.,Scott,True
+16,Scott Martinez,165.8514289,Scott,Martinez,True
 17,Christopher Ortega,30.30144506,Christopher,Ortega,False
 18,Michael Russell,243.17249109999997,Michael,Russell,True
 19,Dwayne Johnson,287.49328560000004,Dwayne,Johnson,True
@@ -36,7 +36,7 @@
 34,Jackson Cline,64.31251721,Jackson,Cline,False
 35,Sonya Foster,296.2155012,Sonya,Foster,True
 36,Allen Williams,15.390831699999998,Allen,Williams,False
-37,Mr. Thomas Rivera,95.22843716,Mr.,Thomas,False
+37,Thomas Rivera,95.22843716,Thomas,Rivera,False
 38,Jamie Silva,296.8244075,Jamie,Silva,True
 39,Kathleen Moore,92.50052419,Kathleen,Moore,False
 40,Evelyn Pineda,169.2289293,Evelyn,Pineda,True
@@ -53,7 +53,7 @@
 51,David Glenn,216.2910463,David,Glenn,True
 52,Dawn Jones,271.6144999,Dawn,Jones,True
 53,Joel Smith,14.4949198,Joel,Smith,False
-54,Mr. Larry Grimes MD,268.6758682,Mr.,Larry,True
+54,Larry Grimes MD,268.6758682,Larry,Grimes,True
 55,Joseph Arnold,121.77504679999998,Joseph,Arnold,True
 56,Kyle Long,241.62163909999998,Kyle,Long,True
 57,Brittany Day,261.5460574,Brittany,Day,True
@@ -77,7 +77,7 @@
 75,Sharon Garza,72.35772704,Sharon,Garza,False
 76,Tiffany Stevens,196.379322,Tiffany,Stevens,True
 77,Ruben Armstrong,93.69836738,Ruben,Armstrong,False
-78,Dr. Jeffrey Spencer,271.162282,Dr.,Jeffrey,True
+78,Jeffrey Spencer,271.162282,Jeffrey,Spencer,True
 79,Nicole Ramsey,247.8596071,Nicole,Ramsey,True
 80,Anne Roy,277.9324821000001,Anne,Roy,True
 81,Lori Sanchez,285.6616405,Lori,Sanchez,True
@@ -106,7 +106,7 @@
 104,Jeanette Knight,28.68694329,Jeanette,Knight,False
 105,Kayla Hanson,27.63036397,Kayla,Hanson,False
 106,James Johnston,284.4290554,James,Johnston,True
-107,Dr. John Porter,53.72799274,Dr.,John,False
+107,John Porter,53.72799274,John,Porter,False
 108,Elizabeth Reyes,93.68075684,Elizabeth,Reyes,False
 109,Kristen Henry,77.00624357,Kristen,Henry,False
 110,Claudia Anderson,160.3401593,Claudia,Anderson,True
@@ -149,7 +149,7 @@
 147,Cameron Ford,248.89213819999998,Cameron,Ford,True
 148,Carla Hayes,265.3745759,Carla,Hayes,True
 149,Marissa Matthews,136.09257769999996,Marissa,Matthews,True
-150,Dr. Samuel Thompson,237.15924159999997,Dr.,Samuel,True
+150,Samuel Thompson,237.15924159999997,Samuel,Thompson,True
 151,Gary Figueroa,168.94476840000002,Gary,Figueroa,True
 152,Michael West,146.88868490000002,Michael,West,True
 153,Martin Walton,140.3400576,Martin,Walton,True
@@ -298,7 +298,7 @@
 296,Robert Black,63.92800482,Robert,Black,False
 297,Julia Young,239.2396683,Julia,Young,True
 298,Melinda Barnes,227.2506352,Melinda,Barnes,True
-299,Mr. Brett Armstrong,154.1341836,Mr.,Brett,True
+299,Brett Armstrong,154.1341836,Brett,Armstrong,True
 300,Erik Stevenson,246.0040722,Erik,Stevenson,True
 301,Daniel George,34.80089308,Daniel,George,False
 302,Lindsey Jones,197.7020395,Lindsey,Jones,True
@@ -364,7 +364,7 @@
 362,Linda Pacheco,299.60400699999997,Linda,Pacheco,True
 363,Jenny Clark,66.32311808,Jenny,Clark,False
 364,Patrick Guzman,223.49659810000003,Patrick,Guzman,True
-365,Mr. Scott Peters,229.487331,Mr.,Scott,True
+365,Scott Peters,229.487331,Scott,Peters,True
 366,John Stevenson,23.09927229,John,Stevenson,False
 367,Kristina Brooks,154.68058259999998,Kristina,Brooks,True
 368,Nancy Aguilar,63.38787527,Nancy,Aguilar,False
@@ -545,7 +545,7 @@
 543,John Howard,80.73869922,John,Howard,False
 544,Anne Savage,134.04054969999999,Anne,Savage,True
 545,Richard Wilson,226.89171340000001,Richard,Wilson,True
-546,Mrs. Amber Esparza,187.5777824,Mrs.,Amber,True
+546,Amber Esparza,187.5777824,Amber,Esparza,True
 547,Todd Armstrong,99.18946135,Todd,Armstrong,False
 548,Aaron Richardson,118.4556824,Aaron,Richardson,True
 549,Gregory Pollard,234.13823680000002,Gregory,Pollard,True
@@ -559,7 +559,7 @@
 557,Julia Stokes,140.3125662,Julia,Stokes,True
 558,Paul Phillips,186.00436499999998,Paul,Phillips,True
 559,Amber Thompson,128.4038652,Amber,Thompson,True
-560,Mrs. Valerie Norton,278.473292,Mrs.,Valerie,True
+560,Valerie Norton,278.473292,Valerie,Norton,True
 561,Adam Parker,228.1780449,Adam,Parker,True
 562,Jennifer Gonzales,201.95772230000003,Jennifer,Gonzales,True
 563,Jacqueline Hernandez,260.086074,Jacqueline,Hernandez,True
@@ -644,7 +644,7 @@
 642,Sheryl Hill,9.161919917,Sheryl,Hill,False
 643,Sandra White,272.9878419,Sandra,White,True
 644,Christopher Thompson,22.06905227,Christopher,Thompson,False
-645,Mr. Daniel Smith,130.75264109999998,Mr.,Daniel,True
+645,Daniel Smith,130.75264109999998,Daniel,Smith,True
 646,Theresa Johnson,61.15255402,Theresa,Johnson,False
 647,Kristopher Cunningham,127.42968290000002,Kristopher,Cunningham,True
 648,Nathan Morgan,166.2127571,Nathan,Morgan,True
@@ -682,7 +682,7 @@
 680,Charlene Jones,246.885328,Charlene,Jones,True
 681,Scott Lawrence,227.6139565,Scott,Lawrence,True
 682,Carol Patrick,140.45168069999997,Carol,Patrick,True
-683,Mrs. Jessica Gibson DDS,60.11999568,Mrs.,Jessica,False
+683,Jessica Gibson DDS,60.11999568,Jessica,Gibson,False
 684,Linda Sullivan,4.597577836,Linda,Sullivan,False
 685,Donna Carrillo,237.8259111,Donna,Carrillo,True
 686,Scott Baker,227.4705054,Scott,Baker,True
@@ -729,7 +729,7 @@
 727,Donald Braun,16.16466094,Donald,Braun,False
 728,Savannah Reese,156.4062563,Savannah,Reese,True
 729,Leslie Wiggins,65.73844854,Leslie,Wiggins,False
-730,Mrs. Deanna Gonzalez,26.46654614,Mrs.,Deanna,False
+730,Deanna Gonzalez,26.46654614,Deanna,Gonzalez,False
 731,Derrick Brown PhD,22.81013853,Derrick,Brown,False
 732,Meghan Davis,116.3037504,Meghan,Davis,True
 733,Faith Edwards,163.6350438,Faith,Edwards,True
@@ -797,7 +797,7 @@
 795,Wesley Krause,115.9217821,Wesley,Krause,True
 796,Derek Sullivan,199.9901641,Derek,Sullivan,True
 797,Brian Johnson,202.850954,Brian,Johnson,True
-798,Miss Monica Mcdonald,190.9497467,Miss,Monica,True
+798,Monica Mcdonald,190.9497467,Monica,Mcdonald,True
 799,Christine Peterson,144.04827790000002,Christine,Peterson,True
 800,Brianna Ramirez,196.1333418,Brianna,Ramirez,True
 801,Robert Decker,71.98489152,Robert,Decker,False
@@ -846,7 +846,7 @@
 844,Susan Herrera,175.42053669999999,Susan,Herrera,True
 845,Linda White,211.99635890000002,Linda,White,True
 846,Andrew Matthews,287.6104984,Andrew,Matthews,True
-847,Mrs. Lisa Richardson MD,185.5276885,Mrs.,Lisa,True
+847,Lisa Richardson MD,185.5276885,Lisa,Richardson,True
 848,Jennifer Dixon,172.8038862,Jennifer,Dixon,True
 849,Daniel James,6.650911434,Daniel,James,False
 850,Kyle Chaney,129.4088432,Kyle,Chaney,True
@@ -941,7 +941,7 @@
 939,John Hernandez,193.7106627,John,Hernandez,True
 940,Tiffany Barnett,271.73120510000007,Tiffany,Barnett,True
 941,Jessica Watts,58.75572391,Jessica,Watts,False
-942,Miss Katherine Brennan MD,50.00288911,Miss,Katherine,False
+942,Katherine Brennan MD,50.00288911,Katherine,Brennan,False
 943,Nathan Nielsen,23.30866391,Nathan,Nielsen,False
 944,Patricia Davis,171.7762592,Patricia,Davis,True
 945,Ricardo Davies,170.0373779,Ricardo,Davies,True
@@ -992,7 +992,7 @@
 990,Christina Pennington,225.692998,Christina,Pennington,True
 991,Jennifer Baldwin,2.031104135,Jennifer,Baldwin,False
 992,Jake Oliver,277.3697463,Jake,Oliver,True
-993,Ms. Krystal Reilly,76.15060240000001,Ms.,Krystal,False
+993,Krystal Reilly,76.15060240000001,Krystal,Reilly,False
 994,Jacob Grant,94.85835916,Jacob,Grant,False
 995,Malik Wright,204.16825590000002,Malik,Wright,True
 996,Gabrielle Johnson,24.81047258,Gabrielle,Johnson,False
@@ -1034,7 +1034,7 @@
 1032,Andrew Mclaughlin,125.0753337,Andrew,Mclaughlin,True
 1033,Larry Livingston,72.61768508,Larry,Livingston,False
 1034,Caitlin Ryan,80.29029468,Caitlin,Ryan,False
-1035,Mr. Bryan Porter,63.31039892,Mr.,Bryan,False
+1035,Bryan Porter,63.31039892,Bryan,Porter,False
 1036,Crystal Harris,77.70547448,Crystal,Harris,False
 1037,Joseph Marshall,110.65941389999999,Joseph,Marshall,True
 1038,Brendan Smith,141.40458669999998,Brendan,Smith,True
@@ -1076,7 +1076,7 @@
 1074,Janet Choi MD,283.9560213,Janet,Choi,True
 1075,Michael Moore,5.190391677,Michael,Moore,False
 1076,Brian Little,119.2532866,Brian,Little,True
-1077,Mr. Robert Davis MD,5.109436915,Mr.,Robert,False
+1077,Robert Davis MD,5.109436915,Robert,Davis,False
 1078,Miranda Phillips,112.1004998,Miranda,Phillips,True
 1079,Jonathan Garrison,11.8484245,Jonathan,Garrison,False
 1080,Anthony Guerrero,112.1278659,Anthony,Guerrero,True
@@ -1163,11 +1163,11 @@
 1161,Misty Mckinney,200.3672862,Misty,Mckinney,True
 1162,Craig Smith,34.83743898,Craig,Smith,False
 1163,Brianna Long,83.56975561,Brianna,Long,False
-1164,Ms. Hailey Fisher,189.0879891,Ms.,Hailey,True
+1164,Hailey Fisher,189.0879891,Hailey,Fisher,True
 1165,Elizabeth Cantrell,57.65410519,Elizabeth,Cantrell,False
 1166,Jennifer Ortiz,190.90985049999998,Jennifer,Ortiz,True
 1167,Benjamin Conway,209.05472790000002,Benjamin,Conway,True
-1168,Dr. Charles Rose,186.9338147,Dr.,Charles,True
+1168,Charles Rose,186.9338147,Charles,Rose,True
 1169,Noah Mccarty,284.5797617,Noah,Mccarty,True
 1170,James Casey,291.81686260000004,James,Casey,True
 1171,Hector Stanton,208.8244196,Hector,Stanton,True
@@ -1175,7 +1175,7 @@
 1173,Chloe Pham,89.83293965,Chloe,Pham,False
 1174,Jordan White,94.44268301,Jordan,White,False
 1175,Melissa Reese,50.17771223,Melissa,Reese,False
-1176,Mr. Gary Taylor,91.21897341,Mr.,Gary,False
+1176,Gary Taylor,91.21897341,Gary,Taylor,False
 1177,Michele West,8.534199297,Michele,West,False
 1178,Jennifer Baker,37.99363448,Jennifer,Baker,False
 1179,Andre Brown,183.20546240000002,Andre,Brown,True
@@ -1293,13 +1293,13 @@
 1291,Nicholas Mccarthy,53.425711899999996,Nicholas,Mccarthy,False
 1292,John Barnett,105.2054949,John,Barnett,True
 1293,Paige Hudson,46.07679429,Paige,Hudson,False
-1294,Dr. Edward Marshall MD,248.28591659999998,Dr.,Edward,True
+1294,Edward Marshall MD,248.28591659999998,Edward,Marshall,True
 1295,Gina Higgins,41.63209155,Gina,Higgins,False
 1296,Linda Ellis,239.18067340000002,Linda,Ellis,True
 1297,Daniel Wade,8.806478022,Daniel,Wade,False
 1298,Jessica Weiss,2.388986621,Jessica,Weiss,False
 1299,Erik Aguilar,148.0744135,Erik,Aguilar,True
-1300,Mr. Gregg Baker,161.51024099999998,Mr.,Gregg,True
+1300,Gregg Baker,161.51024099999998,Gregg,Baker,True
 1301,Bradley Compton,109.1835791,Bradley,Compton,True
 1302,Timothy Sanders,99.61045296,Timothy,Sanders,False
 1303,Steve Mccall,256.1030698,Steve,Mccall,True
@@ -1328,7 +1328,7 @@
 1326,Jamie Porter,258.2181927,Jamie,Porter,True
 1327,Daniel Cunningham,179.37034409999998,Daniel,Cunningham,True
 1328,Victor Marsh,219.97577909999998,Victor,Marsh,True
-1329,Mr. Ryan Rodriguez,71.20559309,Mr.,Ryan,False
+1329,Ryan Rodriguez,71.20559309,Ryan,Rodriguez,False
 1330,Brittany Bradley,246.93954190000002,Brittany,Bradley,True
 1331,Amy Wallace,98.62126666,Amy,Wallace,False
 1332,Alex Smith,196.5458057,Alex,Smith,True
@@ -1341,7 +1341,7 @@
 1339,Donald Molina,12.89769275,Donald,Molina,False
 1340,Ricky Allen,257.9762038,Ricky,Allen,True
 1341,Catherine Rodriguez,185.2494938,Catherine,Rodriguez,True
-1342,Mr. Daniel Torres,59.36058847,Mr.,Daniel,False
+1342,Daniel Torres,59.36058847,Daniel,Torres,False
 1343,David Shepherd,146.5042,David,Shepherd,True
 1344,Jonathan Hansen,65.38248265,Jonathan,Hansen,False
 1345,Benjamin Griffin,262.10814419999997,Benjamin,Griffin,True
@@ -1367,7 +1367,7 @@
 1365,Scott Jackson,44.25908098,Scott,Jackson,False
 1366,Patrick Smith,186.583267,Patrick,Smith,True
 1367,Samuel West,239.88422549999999,Samuel,West,True
-1368,Dr. Brian Baker,225.969486,Dr.,Brian,True
+1368,Brian Baker,225.969486,Brian,Baker,True
 1369,Haley Baldwin,168.18906850000002,Haley,Baldwin,True
 1370,Joanna Fernandez,40.50912655,Joanna,Fernandez,False
 1371,Jeffrey Berg,36.85605931,Jeffrey,Berg,False
@@ -1441,14 +1441,14 @@
 1439,John Douglas,166.2967286,John,Douglas,True
 1440,William Reed,215.30551490000002,William,Reed,True
 1441,Nicole James,141.1921941,Nicole,James,True
-1442,Mrs. Danielle Miller,141.0542037,Mrs.,Danielle,True
+1442,Danielle Miller,141.0542037,Danielle,Miller,True
 1443,Sarah Miller,22.37833918,Sarah,Miller,False
 1444,John Morrison,252.16543149999998,John,Morrison,True
 1445,Sarah Coleman,137.2229765,Sarah,Coleman,True
 1446,Daniel Smith,49.99955025,Daniel,Smith,False
 1447,Kurt Butler,93.24935853,Kurt,Butler,False
 1448,Cody Becker,248.4317247,Cody,Becker,True
-1449,Miss Molly Miller,210.3994579,Miss,Molly,True
+1449,Molly Miller,210.3994579,Molly,Miller,True
 1450,Craig Bailey,102.1427287,Craig,Bailey,True
 1451,Derrick Campbell,159.40481259999999,Derrick,Campbell,True
 1452,Jennifer Ibarra,169.3222197,Jennifer,Ibarra,True
@@ -1458,7 +1458,7 @@
 1456,Patricia Gray,122.90082360000001,Patricia,Gray,True
 1457,James White,124.1837338,James,White,True
 1458,William Smith,115.48350079999999,William,Smith,True
-1459,Mrs. Hannah Cummings,206.37937780000001,Mrs.,Hannah,True
+1459,Hannah Cummings,206.37937780000001,Hannah,Cummings,True
 1460,Philip Mills,149.76905730000001,Philip,Mills,True
 1461,Emily Berry,194.8537868,Emily,Berry,True
 1462,Casey Coffey,173.0530825,Casey,Coffey,True
@@ -1468,7 +1468,7 @@
 1466,Kimberly Green,240.8174556,Kimberly,Green,True
 1467,Thomas Nelson DDS,188.2214297,Thomas,Nelson,True
 1468,Robert Rivera DVM,252.7137124,Robert,Rivera,True
-1469,Miss Michelle Lewis,219.5320111,Miss,Michelle,True
+1469,Michelle Lewis,219.5320111,Michelle,Lewis,True
 1470,Linda Barajas,126.6695321,Linda,Barajas,True
 1471,Amber Jensen,87.74180917,Amber,Jensen,False
 1472,John Owens,240.6708452,John,Owens,True
@@ -1736,7 +1736,7 @@
 1734,Jeffery Wilson,214.1345719,Jeffery,Wilson,True
 1735,Tammy Cooper,215.1947063,Tammy,Cooper,True
 1736,Jessica Gardner,282.8657889,Jessica,Gardner,True
-1737,Mr. Matthew Roman,106.933484,Mr.,Matthew,True
+1737,Matthew Roman,106.933484,Matthew,Roman,True
 1738,Sharon Frazier,145.3813435,Sharon,Frazier,True
 1739,James Gonzalez,262.38815980000004,James,Gonzalez,True
 1740,Tracy Mcmillan,53.15386877,Tracy,Mcmillan,False
@@ -1757,7 +1757,7 @@
 1755,Kenneth Dean,70.33757646,Kenneth,Dean,False
 1756,Joan Crawford,43.57827018,Joan,Crawford,False
 1757,Erin King,87.38375287,Erin,King,False
-1758,Mr. James Hamilton,111.3321125,Mr.,James,True
+1758,James Hamilton,111.3321125,James,Hamilton,True
 1759,Deborah Hood,140.8417148,Deborah,Hood,True
 1760,Marcus Stout,7.833256587,Marcus,Stout,False
 1761,Shannon Jacobs,153.9495471,Shannon,Jacobs,True
@@ -1765,7 +1765,7 @@
 1763,Sarah Wilson,27.9482433,Sarah,Wilson,False
 1764,Edward Brown,255.07195389999998,Edward,Brown,True
 1765,Calvin Jones,278.04738619999995,Calvin,Jones,True
-1766,Mr. Nicholas Fry,94.59168045,Mr.,Nicholas,False
+1766,Nicholas Fry,94.59168045,Nicholas,Fry,False
 1767,Alejandro Sharp,84.92844506,Alejandro,Sharp,False
 1768,Debra Morgan,265.4239044,Debra,Morgan,True
 1769,John Kemp,242.23983509999996,John,Kemp,True
@@ -1810,7 +1810,7 @@
 1808,Gerald Gonzales,40.93851843,Gerald,Gonzales,False
 1809,Christopher Perez,273.7105102,Christopher,Perez,True
 1810,Justin Thornton,4.125420062,Justin,Thornton,False
-1811,Miss Lauren Solis,241.1722903,Miss,Lauren,True
+1811,Lauren Solis,241.1722903,Lauren,Solis,True
 1812,Michelle Kidd,2.7406523839999997,Michelle,Kidd,False
 1813,Michael Shannon,16.99576752,Michael,Shannon,False
 1814,Matthew Murphy,73.02635244,Matthew,Murphy,False
@@ -1945,10 +1945,10 @@
 1943,Justin Mack,143.4471354,Justin,Mack,True
 1944,Anna Gray,146.051617,Anna,Gray,True
 1945,Christopher Lee,124.134775,Christopher,Lee,True
-1946,Mrs. Sara Garrett,276.262021,Mrs.,Sara,True
+1946,Sara Garrett,276.262021,Sara,Garrett,True
 1947,Wendy Sanchez,110.36437520000001,Wendy,Sanchez,True
-1948,Dr. Maria Hall,143.9317353,Dr.,Maria,True
-1949,Mr. James Hall,299.2061897,Mr.,James,True
+1948,Maria Hall,143.9317353,Maria,Hall,True
+1949,James Hall,299.2061897,James,Hall,True
 1950,Robert Cabrera,157.1902941,Robert,Cabrera,True
 1951,Megan Morrison,209.5560925,Megan,Morrison,True
 1952,Jaime Mcdaniel,130.3975176,Jaime,Mcdaniel,True
@@ -1991,7 +1991,7 @@
 1989,Anthony Smith,32.87198146,Anthony,Smith,False
 1990,Roberta Garza,299.0664663,Roberta,Garza,True
 1991,Terry Bennett,188.2365345,Terry,Bennett,True
-1992,Mrs. Tiffany Gomez,239.6097617,Mrs.,Tiffany,True
+1992,Tiffany Gomez,239.6097617,Tiffany,Gomez,True
 1993,Katherine Franklin,167.7043052,Katherine,Franklin,True
 1994,Sherry Martin,146.09965400000002,Sherry,Martin,True
 1995,Robert Li,277.39914139999996,Robert,Li,True
@@ -2024,7 +2024,7 @@
 2022,Timothy Scott,160.55948490000003,Timothy,Scott,True
 2023,Ronald Carter,26.52817674,Ronald,Carter,False
 2024,Catherine Smith,234.5114418,Catherine,Smith,True
-2025,Mrs. Catherine Rivers,257.1654921,Mrs.,Catherine,True
+2025,Catherine Rivers,257.1654921,Catherine,Rivers,True
 2026,Cynthia White,93.34235895,Cynthia,White,False
 2027,Shawn Rojas,81.57088665,Shawn,Rojas,False
 2028,Evan Bradford,83.89976691,Evan,Bradford,False
@@ -2038,7 +2038,7 @@
 2036,Ashley Fernandez,11.74857746,Ashley,Fernandez,False
 2037,Terry Oliver,124.2895414,Terry,Oliver,True
 2038,Jennifer Weaver,268.8554923,Jennifer,Weaver,True
-2039,Mr. Timothy Ortega,130.6341776,Mr.,Timothy,True
+2039,Timothy Ortega,130.6341776,Timothy,Ortega,True
 2040,Brittany Ellison,94.13570816,Brittany,Ellison,False
 2041,Aaron Clark,208.9455945,Aaron,Clark,True
 2042,Michael Johnson,85.65642790000001,Michael,Johnson,False
@@ -2108,9 +2108,9 @@
 2106,Joseph Sullivan,30.40333692,Joseph,Sullivan,False
 2107,Andrew Ryan,11.76405518,Andrew,Ryan,False
 2108,Paula Dixon,160.4543884,Paula,Dixon,True
-2109,Dr. Emily Hernandez,142.5385656,Dr.,Emily,True
+2109,Emily Hernandez,142.5385656,Emily,Hernandez,True
 2110,Donald Jimenez,77.56219828,Donald,Jimenez,False
-2111,Mr. William Parker,180.1897032,Mr.,William,True
+2111,William Parker,180.1897032,William,Parker,True
 2112,Austin Stevens,261.4254097,Austin,Stevens,True
 2113,Heather Rogers,284.2213808,Heather,Rogers,True
 2114,Christopher Cline,46.302484,Christopher,Cline,False
@@ -2146,7 +2146,7 @@
 2144,Joyce Cannon,19.79407941,Joyce,Cannon,False
 2145,Anne Ray,151.72909719999998,Anne,Ray,True
 2146,Karen Williams,253.2786352,Karen,Williams,True
-2147,Dr. Paul Jones,276.31718689999997,Dr.,Paul,True
+2147,Paul Jones,276.31718689999997,Paul,Jones,True
 2148,Sheena Krause,45.02320091,Sheena,Krause,False
 2149,Luis Wallace,32.60775944,Luis,Wallace,False
 2150,Robert Shepherd,219.23939559999997,Robert,Shepherd,True
@@ -2183,11 +2183,11 @@
 2181,Margaret Guzman,144.95165780000002,Margaret,Guzman,True
 2182,Lori Willis,62.89859668,Lori,Willis,False
 2183,John Fernandez Jr.,92.39138123,John,Fernandez,False
-2184,Dr. Christina Valdez,34.79769663,Dr.,Christina,False
+2184,Christina Valdez,34.79769663,Christina,Valdez,False
 2185,Courtney Simpson,206.61902080000002,Courtney,Simpson,True
 2186,Timothy Martin,56.97751421,Timothy,Martin,False
 2187,Kelly Scott,193.5473188,Kelly,Scott,True
-2188,Mr. Joseph Ward,278.1452957,Mr.,Joseph,True
+2188,Joseph Ward,278.1452957,Joseph,Ward,True
 2189,Brady Gonzalez,89.04686427,Brady,Gonzalez,False
 2190,Linda Mcdonald,72.98192728,Linda,Mcdonald,False
 2191,Donna Yates,185.7064263,Donna,Yates,True
@@ -2300,7 +2300,7 @@
 2298,Brad Shaw,77.22657145,Brad,Shaw,False
 2299,Jennifer Marks,214.12256749999997,Jennifer,Marks,True
 2300,Sara Scott,63.33845737,Sara,Scott,False
-2301,Dr. Richard Walker,10.26357238,Dr.,Richard,False
+2301,Richard Walker,10.26357238,Richard,Walker,False
 2302,Justin Williams,98.36518333,Justin,Williams,False
 2303,Richard White,246.0778952,Richard,White,True
 2304,Amber Haynes,92.71470824,Amber,Haynes,False
@@ -2317,7 +2317,7 @@
 2315,Sean Deleon,281.0247667,Sean,Deleon,True
 2316,Samantha Rasmussen,167.5538871,Samantha,Rasmussen,True
 2317,Gary Hicks,268.58259669999995,Gary,Hicks,True
-2318,Mr. David Walker,122.16826470000001,Mr.,David,True
+2318,David Walker,122.16826470000001,David,Walker,True
 2319,Mary Preston,120.09934950000002,Mary,Preston,True
 2320,Kelly Key,275.1606173,Kelly,Key,True
 2321,Tracy Preston,214.1876986,Tracy,Preston,True
@@ -2367,7 +2367,7 @@
 2365,Jerry Brown,268.8242106,Jerry,Brown,True
 2366,Margaret Frazier,254.8209469,Margaret,Frazier,True
 2367,Ricky Johnson,100.2511703,Ricky,Johnson,True
-2368,Mrs. Sara Romero,3.931396765,Mrs.,Sara,False
+2368,Sara Romero,3.931396765,Sara,Romero,False
 2369,Samuel Reynolds,1.321601458,Samuel,Reynolds,False
 2370,Andrew Foley,110.3610057,Andrew,Foley,True
 2371,Anthony Gross,104.43005059999999,Anthony,Gross,True
@@ -2498,7 +2498,7 @@
 2496,Thomas Turner,102.5115671,Thomas,Turner,True
 2497,Ernest Blake,279.7736437,Ernest,Blake,True
 2498,Kimberly Aguilar,254.503909,Kimberly,Aguilar,True
-2499,Mr. Parker Chandler DDS,105.09884890000001,Mr.,Parker,True
+2499,Parker Chandler DDS,105.09884890000001,Parker,Chandler,True
 2500,Patricia Jordan,293.1542586,Patricia,Jordan,True
 2501,Edward Pearson,186.51746519999998,Edward,Pearson,True
 2502,Thomas Guzman,35.01257377,Thomas,Guzman,False
@@ -2513,7 +2513,7 @@
 2511,Michelle Spencer,296.94583639999996,Michelle,Spencer,True
 2512,Austin Zuniga,189.9701356,Austin,Zuniga,True
 2513,Sarah Mora,152.0602036,Sarah,Mora,True
-2514,Mr. David Brown,222.44664939999998,Mr.,David,True
+2514,David Brown,222.44664939999998,David,Brown,True
 2515,Regina Smith,104.488275,Regina,Smith,True
 2516,John Gardner,90.71613517,John,Gardner,False
 2517,Melissa Levy,101.5050273,Melissa,Levy,True
@@ -2532,7 +2532,7 @@
 2530,Maria Mccall,244.07770719999996,Maria,Mccall,True
 2531,Linda Robinson,33.16893391,Linda,Robinson,False
 2532,Emily Rodriguez,124.8103967,Emily,Rodriguez,True
-2533,Dr. Samantha Morrison,68.09438499,Dr.,Samantha,False
+2533,Samantha Morrison,68.09438499,Samantha,Morrison,False
 2534,Johnny Clark,11.42250221,Johnny,Clark,False
 2535,Brandon Hanson,129.2842923,Brandon,Hanson,True
 2536,Dana Mcclain,127.64522439999999,Dana,Mcclain,True
@@ -2581,7 +2581,7 @@
 2579,Alejandra Strickland,238.52116260000003,Alejandra,Strickland,True
 2580,Paula Gregory,63.86627777,Paula,Gregory,False
 2581,Joseph Lozano,288.2552215,Joseph,Lozano,True
-2582,Mr. Dean Thomas,291.9138486,Mr.,Dean,True
+2582,Dean Thomas,291.9138486,Dean,Thomas,True
 2583,Sue Lee,229.68674080000002,Sue,Lee,True
 2584,Anna Long,282.5645113,Anna,Long,True
 2585,Madison Richardson,231.6005976,Madison,Richardson,True
@@ -2601,7 +2601,7 @@
 2599,Robert Perez,239.58512969999998,Robert,Perez,True
 2600,David Clark,23.0325238,David,Clark,False
 2601,Beverly Leon,106.10637630000001,Beverly,Leon,True
-2602,Dr. Robert Wright,50.0234143,Dr.,Robert,False
+2602,Robert Wright,50.0234143,Robert,Wright,False
 2603,James Thomas,86.77348735,James,Thomas,False
 2604,Derrick Wells,181.4218065,Derrick,Wells,True
 2605,Devin Neal,86.96007678,Devin,Neal,False
@@ -2700,7 +2700,7 @@
 2698,Heather Ballard,284.5814233,Heather,Ballard,True
 2699,Andre Manning,194.9905545,Andre,Manning,True
 2700,Ashley Soto,79.24450990000001,Ashley,Soto,False
-2701,Dr. Elizabeth Clark,269.41684080000005,Dr.,Elizabeth,True
+2701,Elizabeth Clark,269.41684080000005,Elizabeth,Clark,True
 2702,Patricia Young,130.6553075,Patricia,Young,True
 2703,Marisa Campbell,84.44272785,Marisa,Campbell,False
 2704,Timothy Davis,171.1168554,Timothy,Davis,True
@@ -2768,7 +2768,7 @@
 2766,Mary Allen,255.2531379,Mary,Allen,True
 2767,Michael Santos,193.49951930000003,Michael,Santos,True
 2768,Ronnie Ali,229.6159426,Ronnie,Ali,True
-2769,Mr. Jeff Wilson,114.67608770000001,Mr.,Jeff,True
+2769,Jeff Wilson,114.67608770000001,Jeff,Wilson,True
 2770,John Richardson,207.19546100000002,John,Richardson,True
 2771,Reginald Barnes,46.8780625,Reginald,Barnes,False
 2772,Joseph Beasley,298.37222369999995,Joseph,Beasley,True
@@ -2795,9 +2795,9 @@
 2793,Maria Hunt,285.7458256,Maria,Hunt,True
 2794,Robert Howard,174.47244540000003,Robert,Howard,True
 2795,Katherine Smith,96.91551318,Katherine,Smith,False
-2796,Mrs. Andrea Meza,143.0006511,Mrs.,Andrea,True
+2796,Andrea Meza,143.0006511,Andrea,Meza,True
 2797,Nathan Crane,83.56558574,Nathan,Crane,False
-2798,Dr. Douglas Delgado DDS,85.5223837,Dr.,Douglas,False
+2798,Douglas Delgado DDS,85.5223837,Douglas,Delgado,False
 2799,Mariah Garrison,192.7734629,Mariah,Garrison,True
 2800,Dennis Perez,138.22028569999998,Dennis,Perez,True
 2801,Veronica Berry,248.7978665,Veronica,Berry,True
@@ -2814,7 +2814,7 @@
 2812,Christopher Miller,158.2431072,Christopher,Miller,True
 2813,Duane Smith,195.3278749,Duane,Smith,True
 2814,Madeline Sandoval,121.17434979999999,Madeline,Sandoval,True
-2815,Dr. Victoria Kirk,3.666987419,Dr.,Victoria,False
+2815,Victoria Kirk,3.666987419,Victoria,Kirk,False
 2816,Paul Davis,252.5040028,Paul,Davis,True
 2817,Robert Dickerson,11.98827381,Robert,Dickerson,False
 2818,Kevin Lambert Jr.,4.531036969,Kevin,Lambert,False
@@ -2837,7 +2837,7 @@
 2835,Preston Ferguson III,221.4249566,Preston,Ferguson,True
 2836,Rachel Montgomery,29.08534279,Rachel,Montgomery,False
 2837,Rebecca Walls,215.27177930000002,Rebecca,Walls,True
-2838,Mr. Matthew Collins,238.6680373,Mr.,Matthew,True
+2838,Matthew Collins,238.6680373,Matthew,Collins,True
 2839,Thomas Forbes,72.71031133,Thomas,Forbes,False
 2840,Caitlin Shelton,220.32520860000002,Caitlin,Shelton,True
 2841,Robert Stephens,3.606464206,Robert,Stephens,False
@@ -2971,7 +2971,7 @@
 2969,Tiffany Barron,185.2634793,Tiffany,Barron,True
 2970,Arthur Chandler,226.59721729999998,Arthur,Chandler,True
 2971,Mark Bowman,180.1064676,Mark,Bowman,True
-2972,Dr. Shannon Jackson,131.2304203,Dr.,Shannon,True
+2972,Shannon Jackson,131.2304203,Shannon,Jackson,True
 2973,Kelly Johnson,124.16337990000001,Kelly,Johnson,True
 2974,Brian Contreras,60.52315419,Brian,Contreras,False
 2975,John Dixon,183.4615101,John,Dixon,True
@@ -2979,7 +2979,7 @@
 2977,Christina Bishop,197.7689034,Christina,Bishop,True
 2978,Jennifer Smith,169.76375159999998,Jennifer,Smith,True
 2979,Denise Clark,270.07653650000003,Denise,Clark,True
-2980,Ms. Angela Peterson MD,194.5922004,Ms.,Angela,True
+2980,Angela Peterson MD,194.5922004,Angela,Peterson,True
 2981,Amy Mills,132.67089380000002,Amy,Mills,True
 2982,Stephanie Spears,128.7858904,Stephanie,Spears,True
 2983,Alexandra Lawrence,112.38945859999998,Alexandra,Lawrence,True
@@ -2994,7 +2994,7 @@
 2992,Ronald Hudson,240.1683659,Ronald,Hudson,True
 2993,Derek Wolf,136.99871389999998,Derek,Wolf,True
 2994,Jennifer Lee,168.41306619999997,Jennifer,Lee,True
-2995,Dr. Courtney Copeland DVM,205.9871436,Dr.,Courtney,True
+2995,Courtney Copeland DVM,205.9871436,Courtney,Copeland,True
 2996,Kevin Boyd,276.0430518,Kevin,Boyd,True
 2997,Christopher Harrell,47.54869596,Christopher,Harrell,False
 2998,Terri Schultz,95.12922836,Terri,Schultz,False
@@ -3003,7 +3003,7 @@
 3001,Tammy Welch,243.68078849999998,Tammy,Welch,True
 3002,Jennifer Doyle,125.08294709999998,Jennifer,Doyle,True
 3003,Michelle Moore,139.85264009999997,Michelle,Moore,True
-3004,Mr. Matthew Bennett,31.24445141,Mr.,Matthew,False
+3004,Matthew Bennett,31.24445141,Matthew,Bennett,False
 3005,Valerie Bishop,141.04655290000002,Valerie,Bishop,True
 3006,Olivia Moore,182.77226330000002,Olivia,Moore,True
 3007,Rachel Lynch,11.16873089,Rachel,Lynch,False
@@ -3019,7 +3019,7 @@
 3017,Jared Garrison,176.72059430000002,Jared,Garrison,True
 3018,Susan Burton,71.54482097,Susan,Burton,False
 3019,Bryan Patton,6.517783303,Bryan,Patton,False
-3020,Mr. Kyle Burns,47.95291873,Mr.,Kyle,False
+3020,Kyle Burns,47.95291873,Kyle,Burns,False
 3021,Jeremy Davis,196.88090630000002,Jeremy,Davis,True
 3022,Kevin Bryant,119.266223,Kevin,Bryant,True
 3023,James Harrington,153.66009259999998,James,Harrington,True
@@ -3031,7 +3031,7 @@
 3029,Angela Martinez,97.13919381,Angela,Martinez,False
 3030,Michael Anderson,56.30656726,Michael,Anderson,False
 3031,Charles Stevens,146.52720630000002,Charles,Stevens,True
-3032,Dr. Christopher Harrell,176.63651169999997,Dr.,Christopher,True
+3032,Christopher Harrell,176.63651169999997,Christopher,Harrell,True
 3033,Melanie Francis,148.62381069999998,Melanie,Francis,True
 3034,Kevin Johnson,57.07758117,Kevin,Johnson,False
 3035,Annette Johnston,286.4368475,Annette,Johnston,True
@@ -3044,7 +3044,7 @@
 3042,Jenna Odom,54.33763494,Jenna,Odom,False
 3043,Jennifer Parker,114.30514170000001,Jennifer,Parker,True
 3044,Melissa Haynes,249.4110446,Melissa,Haynes,True
-3045,Dr. Terry Martinez,135.282602,Dr.,Terry,True
+3045,Terry Martinez,135.282602,Terry,Martinez,True
 3046,Daniel Mitchell,273.16612169999996,Daniel,Mitchell,True
 3047,Steven Williams MD,89.40717196,Steven,Williams,False
 3048,Nicholas White,234.42393859999999,Nicholas,White,True
@@ -3178,7 +3178,7 @@
 3176,Daniel Cisneros,108.59139809999999,Daniel,Cisneros,True
 3177,Emily Graham,101.033565,Emily,Graham,True
 3178,Sherri Smith,67.86065479,Sherri,Smith,False
-3179,Dr. William Smith,167.3695822,Dr.,William,True
+3179,William Smith,167.3695822,William,Smith,True
 3180,Terri Aguirre,54.2421296,Terri,Aguirre,False
 3181,Natalie Haney,137.41582769999997,Natalie,Haney,True
 3182,Casey Holder,69.05125997,Casey,Holder,False
@@ -3206,7 +3206,7 @@
 3204,Eric Murray,103.2178891,Eric,Murray,True
 3205,John Rogers,144.6405491,John,Rogers,True
 3206,Luke Estrada,85.78863405,Luke,Estrada,False
-3207,Mr. Robert Clark,80.217175,Mr.,Robert,False
+3207,Robert Clark,80.217175,Robert,Clark,False
 3208,Kimberly Koch,165.4221924,Kimberly,Koch,True
 3209,Laura Bailey,45.79462845,Laura,Bailey,False
 3210,Allison Frye,58.02567556,Allison,Frye,False
@@ -3219,7 +3219,7 @@
 3217,Janet Collins,248.9042909,Janet,Collins,True
 3218,Austin Rosales,145.33091409999997,Austin,Rosales,True
 3219,Kathy White,3.687331701,Kathy,White,False
-3220,Mrs. Kimberly Preston,148.0609304,Mrs.,Kimberly,True
+3220,Kimberly Preston,148.0609304,Kimberly,Preston,True
 3221,John Hudson,225.9386329,John,Hudson,True
 3222,Don Ryan,2.665125824,Don,Ryan,False
 3223,Sarah Morgan,130.9060372,Sarah,Morgan,True
@@ -3295,7 +3295,7 @@
 3293,Jason Trujillo,299.4562265,Jason,Trujillo,True
 3294,Kristin Parker,135.39589030000002,Kristin,Parker,True
 3295,Megan Livingston,242.87853859999998,Megan,Livingston,True
-3296,Mr. Joshua Ellis Jr.,84.82707931,Mr.,Joshua,False
+3296,Joshua Ellis Jr.,84.82707931,Joshua,Ellis,False
 3297,Ann Fuentes,87.78803420000001,Ann,Fuentes,False
 3298,Briana Vega,47.10642162,Briana,Vega,False
 3299,Kathryn Jackson,132.665955,Kathryn,Jackson,True
@@ -3307,13 +3307,13 @@
 3305,Lisa Ramirez,77.96112244,Lisa,Ramirez,False
 3306,Angel Hill,90.06437631,Angel,Hill,False
 3307,Connor Rivas,49.1799723,Connor,Rivas,False
-3308,Mrs. Ashley Carter MD,242.1768017,Mrs.,Ashley,True
+3308,Ashley Carter MD,242.1768017,Ashley,Carter,True
 3309,William Gay,159.913024,William,Gay,True
 3310,Joshua Sanchez,232.9403694,Joshua,Sanchez,True
 3311,Nicole Moon,129.8392863,Nicole,Moon,True
 3312,Kayla Wilson,147.08693190000002,Kayla,Wilson,True
 3313,Brett Brown,235.3239691,Brett,Brown,True
-3314,Mr. Thomas Williams,289.1238337,Mr.,Thomas,True
+3314,Thomas Williams,289.1238337,Thomas,Williams,True
 3315,Kristin Rosales,193.912753,Kristin,Rosales,True
 3316,Jennifer Cruz,227.7898924,Jennifer,Cruz,True
 3317,Amanda Chandler,39.84244261,Amanda,Chandler,False
@@ -3332,7 +3332,7 @@
 3330,Nancy Rodriguez,135.43700719999998,Nancy,Rodriguez,True
 3331,Stacy Robles,248.11662169999997,Stacy,Robles,True
 3332,Robert Bray,259.01866540000003,Robert,Bray,True
-3333,Mrs. Kelly Schmitt DVM,200.4331594,Mrs.,Kelly,True
+3333,Kelly Schmitt DVM,200.4331594,Kelly,Schmitt,True
 3334,Charles Butler,22.76132536,Charles,Butler,False
 3335,Emily Shaw,191.01073369999997,Emily,Shaw,True
 3336,Anne Dixon,8.544510834,Anne,Dixon,False
@@ -3390,7 +3390,7 @@
 3388,Steve Ellis,132.2832059,Steve,Ellis,True
 3389,Stacey Reed,153.85740149999998,Stacey,Reed,True
 3390,Christine Scott,238.1391349,Christine,Scott,True
-3391,Mrs. Sarah Rios,252.2214005,Mrs.,Sarah,True
+3391,Sarah Rios,252.2214005,Sarah,Rios,True
 3392,Crystal Stout,110.5572952,Crystal,Stout,True
 3393,Matthew Lyons,113.12427109999999,Matthew,Lyons,True
 3394,Ann Wolf,13.87551284,Ann,Wolf,False
@@ -3460,7 +3460,7 @@
 3458,Teresa Flynn,259.5327324,Teresa,Flynn,True
 3459,Patrick Powell,227.5460156,Patrick,Powell,True
 3460,David Brock,209.1735118,David,Brock,True
-3461,Mr. James Roach DDS,190.4298545,Mr.,James,True
+3461,James Roach DDS,190.4298545,James,Roach,True
 3462,Tanya Le,245.96571540000002,Tanya,Le,True
 3463,Joshua Martinez,175.3554568,Joshua,Martinez,True
 3464,Justin Perez,119.01327260000001,Justin,Perez,True
@@ -3492,7 +3492,7 @@
 3490,Jill Garcia,160.2462415,Jill,Garcia,True
 3491,Natasha Sullivan,17.87476089,Natasha,Sullivan,False
 3492,Adam Carter,30.03999986,Adam,Carter,False
-3493,Ms. Rachel Hill,236.2788744,Ms.,Rachel,True
+3493,Rachel Hill,236.2788744,Rachel,Hill,True
 3494,George Clark,282.64045730000004,George,Clark,True
 3495,Lindsey Arias,9.499141593,Lindsey,Arias,False
 3496,Mary Gordon,177.9980905,Mary,Gordon,True
@@ -3614,7 +3614,7 @@
 3612,Holly James,61.37812708,Holly,James,False
 3613,Joy Estrada,124.5371943,Joy,Estrada,True
 3614,Kimberly Brewer,168.6725954,Kimberly,Brewer,True
-3615,Mrs. Amber Mcguire,28.93138042,Mrs.,Amber,False
+3615,Amber Mcguire,28.93138042,Amber,Mcguire,False
 3616,Cynthia Vargas MD,58.89826014,Cynthia,Vargas,False
 3617,Daniel Rowland,114.4858203,Daniel,Rowland,True
 3618,Christopher Mcneil,95.43305927,Christopher,Mcneil,False
@@ -3629,7 +3629,7 @@
 3627,Todd Morris,214.60275980000003,Todd,Morris,True
 3628,Danielle Herring,25.27314677,Danielle,Herring,False
 3629,Jennifer Buck,16.62681662,Jennifer,Buck,False
-3630,Mr. Ryan Guzman,144.9327007,Mr.,Ryan,True
+3630,Ryan Guzman,144.9327007,Ryan,Guzman,True
 3631,Zoe Christian,101.05193349999999,Zoe,Christian,True
 3632,Tanner Flores,158.1580261,Tanner,Flores,True
 3633,Lisa Gilbert,162.5011608,Lisa,Gilbert,True
@@ -3640,8 +3640,8 @@
 3638,Nicholas Watson,279.1583923,Nicholas,Watson,True
 3639,Jonathan Gomez,188.4522995,Jonathan,Gomez,True
 3640,Amy Smith,232.3039512,Amy,Smith,True
-3641,Mrs. Shirley Ruiz,146.20405680000002,Mrs.,Shirley,True
-3642,Dr. Melissa Wilson,28.18291742,Dr.,Melissa,False
+3641,Shirley Ruiz,146.20405680000002,Shirley,Ruiz,True
+3642,Melissa Wilson,28.18291742,Melissa,Wilson,False
 3643,Victoria Wood,216.22818030000002,Victoria,Wood,True
 3644,Sean Sharp DDS,91.32036828,Sean,Sharp,False
 3645,Mandy Richards,197.8265149,Mandy,Richards,True
@@ -3739,7 +3739,7 @@
 3737,Cynthia Mccann,298.200345,Cynthia,Mccann,True
 3738,Deborah Duran,122.0695184,Deborah,Duran,True
 3739,Ashley Grant,167.68059530000002,Ashley,Grant,True
-3740,Mr. Edward Kennedy,87.48664278,Mr.,Edward,False
+3740,Edward Kennedy,87.48664278,Edward,Kennedy,False
 3741,Laura Turner,273.6487772,Laura,Turner,True
 3742,Kathryn Fox,242.3134788,Kathryn,Fox,True
 3743,Mason Brown,107.8274801,Mason,Brown,True
@@ -3799,7 +3799,7 @@
 3797,Lindsay Lopez,244.6472877,Lindsay,Lopez,True
 3798,David Vazquez,280.1292412,David,Vazquez,True
 3799,Amber Mathis,7.451948785,Amber,Mathis,False
-3800,Dr. Amy Melendez,46.29349526,Dr.,Amy,False
+3800,Amy Melendez,46.29349526,Amy,Melendez,False
 3801,Glenda Chandler,245.2438369,Glenda,Chandler,True
 3802,Seth Norman,288.4083483,Seth,Norman,True
 3803,Jessica Knight,125.93192549999999,Jessica,Knight,True
@@ -3826,11 +3826,11 @@
 3824,Michael Ross,100.2194872,Michael,Ross,True
 3825,Elizabeth Morris,295.1160307,Elizabeth,Morris,True
 3826,Erica Williams,7.35260963,Erica,Williams,False
-3827,Mrs. Grace Phillips,103.8639002,Mrs.,Grace,True
+3827,Grace Phillips,103.8639002,Grace,Phillips,True
 3828,Julie Johnson,71.9820892,Julie,Johnson,False
 3829,Andrew Smith,90.86144115,Andrew,Smith,False
 3830,Aaron Anderson,152.1741355,Aaron,Anderson,True
-3831,Mr. Julian Allen,228.22468790000002,Mr.,Julian,True
+3831,Julian Allen,228.22468790000002,Julian,Allen,True
 3832,John Simpson,235.697856,John,Simpson,True
 3833,Karen Salazar,110.1150383,Karen,Salazar,True
 3834,Chelsea Williams,226.9326808,Chelsea,Williams,True
@@ -4050,7 +4050,7 @@
 4048,Robert Herman,141.1764355,Robert,Herman,True
 4049,Tina Suarez,163.1416394,Tina,Suarez,True
 4050,James Myers,61.51331838,James,Myers,False
-4051,Mrs. Destiny Morris MD,148.2100335,Mrs.,Destiny,True
+4051,Destiny Morris MD,148.2100335,Destiny,Morris,True
 4052,Dean Sullivan,247.14210519999997,Dean,Sullivan,True
 4053,Joseph Lester,158.58980449999999,Joseph,Lester,True
 4054,Andrew Serrano,75.38529002,Andrew,Serrano,False
@@ -4060,7 +4060,7 @@
 4058,Ryan Huerta,22.97106727,Ryan,Huerta,False
 4059,John Stein,93.68171884,John,Stein,False
 4060,Joshua Macias,87.41940543,Joshua,Macias,False
-4061,Mr. Kevin Walsh,122.02960700000001,Mr.,Kevin,True
+4061,Kevin Walsh,122.02960700000001,Kevin,Walsh,True
 4062,Stuart Daniels,29.76771872,Stuart,Daniels,False
 4063,Nathan White,13.59591045,Nathan,White,False
 4064,Matthew Thompson,282.74916410000003,Matthew,Thompson,True
@@ -4098,7 +4098,7 @@
 4096,Shawn Yang,66.80153798,Shawn,Yang,False
 4097,Jennifer Cruz,136.10305659999997,Jennifer,Cruz,True
 4098,Jerry Lewis,116.5647115,Jerry,Lewis,True
-4099,Mr. Gerald Hall PhD,165.7863419,Mr.,Gerald,True
+4099,Gerald Hall PhD,165.7863419,Gerald,Hall,True
 4100,Lisa Williams,151.7382706,Lisa,Williams,True
 4101,Austin Dougherty,159.1601399,Austin,Dougherty,True
 4102,Tiffany Khan,180.7098851,Tiffany,Khan,True
@@ -4115,7 +4115,7 @@
 4113,Joseph Cross,34.92207275,Joseph,Cross,False
 4114,Stacy Wright,60.60246858,Stacy,Wright,False
 4115,Jennifer Sosa,209.1023241,Jennifer,Sosa,True
-4116,Dr. Joel Myers PhD,64.85581509,Dr.,Joel,False
+4116,Joel Myers PhD,64.85581509,Joel,Myers,False
 4117,Charles Hall,55.60324358,Charles,Hall,False
 4118,Jennifer Ward,230.34582090000004,Jennifer,Ward,True
 4119,Courtney Jones,177.78737130000002,Courtney,Jones,True
@@ -4127,7 +4127,7 @@
 4125,Amanda Allen,252.7245451,Amanda,Allen,True
 4126,Reginald Wheeler,187.47169240000002,Reginald,Wheeler,True
 4127,Michael Mckee,108.49853490000001,Michael,Mckee,True
-4128,Mrs. Elizabeth Richard,291.6208208,Mrs.,Elizabeth,True
+4128,Elizabeth Richard,291.6208208,Elizabeth,Richard,True
 4129,Roy Park,260.10671940000003,Roy,Park,True
 4130,Alexander Hampton,163.4734673,Alexander,Hampton,True
 4131,Lisa Smith,107.39945060000001,Lisa,Smith,True
@@ -4182,7 +4182,7 @@
 4180,Devin Pugh,162.5232565,Devin,Pugh,True
 4181,Sara Brown,157.8131238,Sara,Brown,True
 4182,Tanya Gonzales,27.83669992,Tanya,Gonzales,False
-4183,Mrs. Nicole Thomas DDS,0.8279421990000001,Mrs.,Nicole,False
+4183,Nicole Thomas DDS,0.8279421990000001,Nicole,Thomas,False
 4184,William Ward,266.28455069999995,William,Ward,True
 4185,Ashley Cooper MD,69.44262108,Ashley,Cooper,False
 4186,Aaron Williams,107.65388229999999,Aaron,Williams,True
@@ -4279,7 +4279,7 @@
 4277,Keith White,96.4713786,Keith,White,False
 4278,Amy Haynes,23.77645827,Amy,Haynes,False
 4279,Nicole Watson,62.17613483,Nicole,Watson,False
-4280,Mr. Danny Bennett PhD,259.6518499,Mr.,Danny,True
+4280,Danny Bennett PhD,259.6518499,Danny,Bennett,True
 4281,Isabel Young,215.7325161,Isabel,Young,True
 4282,Rebecca Guzman,125.2388105,Rebecca,Guzman,True
 4283,Jason Robinson,15.26988999,Jason,Robinson,False
@@ -4650,7 +4650,7 @@
 4648,William Valdez,89.02384223,William,Valdez,False
 4649,April Owen,50.42365048,April,Owen,False
 4650,Mark Bridges,175.23770359999997,Mark,Bridges,True
-4651,Mr. Andrew Rivera,135.46274680000002,Mr.,Andrew,True
+4651,Andrew Rivera,135.46274680000002,Andrew,Rivera,True
 4652,Scott Martinez,152.41209709999998,Scott,Martinez,True
 4653,Christopher Lloyd,71.43232101,Christopher,Lloyd,False
 4654,Denise York,254.7595758,Denise,York,True
@@ -4658,7 +4658,7 @@
 4656,Tonya Reed,149.7223124,Tonya,Reed,True
 4657,Michael Wilkinson,196.73785949999998,Michael,Wilkinson,True
 4658,Richard Reyes,210.2281313,Richard,Reyes,True
-4659,Mr. Evan Russell,149.7074898,Mr.,Evan,True
+4659,Evan Russell,149.7074898,Evan,Russell,True
 4660,Evan Smith,37.52689329,Evan,Smith,False
 4661,Victoria Jones,96.09334955,Victoria,Jones,False
 4662,Cheryl Moore,141.8886656,Cheryl,Moore,True
@@ -4668,18 +4668,18 @@
 4666,Brian Pearson,112.250635,Brian,Pearson,True
 4667,Kathryn Lamb,159.2021671,Kathryn,Lamb,True
 4668,Jordan Cruz,147.7997987,Jordan,Cruz,True
-4669,Dr. Edward Brooks,17.23870373,Dr.,Edward,False
+4669,Edward Brooks,17.23870373,Edward,Brooks,False
 4670,Brent Castaneda,30.42960613,Brent,Castaneda,False
 4671,Brenda Wright,144.7183283,Brenda,Wright,True
 4672,Samuel Dyer,94.10988372,Samuel,Dyer,False
 4673,Brian Bryant,18.27670854,Brian,Bryant,False
-4674,Ms. Kimberly Wood,210.9966109,Ms.,Kimberly,True
+4674,Kimberly Wood,210.9966109,Kimberly,Wood,True
 4675,Brittany Garcia DDS,81.57859097,Brittany,Garcia,False
 4676,Trevor Byrd,207.25882909999999,Trevor,Byrd,True
 4677,Larry Herrera,148.8252998,Larry,Herrera,True
 4678,Joseph Owens,177.455429,Joseph,Owens,True
 4679,Gregory Peters,140.16405269999998,Gregory,Peters,True
-4680,Miss Amber Burnett,282.1055449,Miss,Amber,True
+4680,Amber Burnett,282.1055449,Amber,Burnett,True
 4681,Jason Malone,23.1493309,Jason,Malone,False
 4682,Jordan Pugh,159.51318419999998,Jordan,Pugh,True
 4683,Daniel Welch,262.0282047,Daniel,Welch,True
@@ -4718,7 +4718,7 @@
 4716,Michael Holland,53.800895499999996,Michael,Holland,False
 4717,Elizabeth Cardenas,236.03410150000002,Elizabeth,Cardenas,True
 4718,Theodore Roberts,201.6899645,Theodore,Roberts,True
-4719,Ms. Katrina Zamora,232.6531654,Ms.,Katrina,True
+4719,Katrina Zamora,232.6531654,Katrina,Zamora,True
 4720,Elizabeth Garcia,17.67269032,Elizabeth,Garcia,False
 4721,Julie Johnson,201.41638999999998,Julie,Johnson,True
 4722,Shelby Jackson DDS,287.4389232,Shelby,Jackson,True
@@ -4726,12 +4726,12 @@
 4724,Laura Sandoval,161.37589540000002,Laura,Sandoval,True
 4725,Garrett Clark,159.7777209,Garrett,Clark,True
 4726,Jeremy Anderson,122.56910079999999,Jeremy,Anderson,True
-4727,Mr. Charles Gonzalez,283.7296907,Mr.,Charles,True
+4727,Charles Gonzalez,283.7296907,Charles,Gonzalez,True
 4728,Christina Brown,45.04038062,Christina,Brown,False
 4729,Madison Dunn,86.98702768,Madison,Dunn,False
 4730,George Barry,218.99807420000002,George,Barry,True
 4731,Nicholas Caldwell,107.3920712,Nicholas,Caldwell,True
-4732,Dr. Michael Green,230.1101804,Dr.,Michael,True
+4732,Michael Green,230.1101804,Michael,Green,True
 4733,Brian Wyatt,87.79995808,Brian,Wyatt,False
 4734,Jason Medina,265.70724210000003,Jason,Medina,True
 4735,Ashley Solis,41.98196192,Ashley,Solis,False
@@ -4821,7 +4821,7 @@
 4819,Leslie Taylor,270.78747930000003,Leslie,Taylor,True
 4820,Antonio Hancock,19.19014636,Antonio,Hancock,False
 4821,Eric Williams,187.4451253,Eric,Williams,True
-4822,Dr. Patricia Hall,212.1101366,Dr.,Patricia,True
+4822,Patricia Hall,212.1101366,Patricia,Hall,True
 4823,Christian Lopez,288.0472358,Christian,Lopez,True
 4824,Timothy Scott,188.6920146,Timothy,Scott,True
 4825,Jessica James,121.2432051,Jessica,James,True
@@ -4919,7 +4919,7 @@
 4917,Thomas Perez,257.74024959999997,Thomas,Perez,True
 4918,Courtney Hudson,67.19182338,Courtney,Hudson,False
 4919,Sheri Kline,134.5448284,Sheri,Kline,True
-4920,Mr. Jeff Baker,114.3596912,Mr.,Jeff,True
+4920,Jeff Baker,114.3596912,Jeff,Baker,True
 4921,Sylvia Sexton,47.3197378,Sylvia,Sexton,False
 4922,David Jordan,157.15899140000002,David,Jordan,True
 4923,Todd Ward,23.34203366,Todd,Ward,False
@@ -4941,7 +4941,7 @@
 4939,Rachel Maxwell,16.23735266,Rachel,Maxwell,False
 4940,Michael Warren,205.9732811,Michael,Warren,True
 4941,Amanda Alexander,288.0402668,Amanda,Alexander,True
-4942,Mr. Thomas Brown DDS,94.86295432,Mr.,Thomas,False
+4942,Thomas Brown DDS,94.86295432,Thomas,Brown,False
 4943,Melissa Perez,8.902708367,Melissa,Perez,False
 4944,Amy Johnson,113.435949,Amy,Johnson,True
 4945,Devin Lewis,295.7543656,Devin,Lewis,True
@@ -4987,7 +4987,7 @@
 4985,Mallory Jenkins,254.8148748,Mallory,Jenkins,True
 4986,Nicole Shea,107.01205130000001,Nicole,Shea,True
 4987,James Clark,17.53058053,James,Clark,False
-4988,Mr. Brandon Valdez,250.56375830000002,Mr.,Brandon,True
+4988,Brandon Valdez,250.56375830000002,Brandon,Valdez,True
 4989,Anthony Mitchell,112.7168971,Anthony,Mitchell,True
 4990,Stephanie Gutierrez,259.0366509,Stephanie,Gutierrez,True
 4991,Charles Clarke,50.93032053,Charles,Clarke,False
@@ -5050,7 +5050,7 @@
 5048,Grant Summers,51.78034157,Grant,Summers,False
 5049,Sarah Spencer DDS,271.60236760000004,Sarah,Spencer,True
 5050,Brianna Lewis,192.617676,Brianna,Lewis,True
-5051,Mrs. Rhonda Martin DVM,145.6455553,Mrs.,Rhonda,True
+5051,Rhonda Martin DVM,145.6455553,Rhonda,Martin,True
 5052,Dennis Lawrence Jr.,161.3584294,Dennis,Lawrence,True
 5053,Michael Stewart,245.44009869999996,Michael,Stewart,True
 5054,William Wilkins,22.90555849,William,Wilkins,False
@@ -5118,7 +5118,7 @@
 5117,Melissa Holt,252.28184380000002,Melissa,Holt,True
 5118,Eric Valenzuela,176.52775,Eric,Valenzuela,True
 5119,Anthony Hardy,4.902725495,Anthony,Hardy,False
-5120,Mrs. Karen Johnson,49.41029242,Mrs.,Karen,False
+5120,Karen Johnson,49.41029242,Karen,Johnson,False
 5121,Richard Hunt,249.7511997,Richard,Hunt,True
 5122,Karen Robertson,1.710967532,Karen,Robertson,False
 5123,Adam Jones,56.93252133,Adam,Jones,False
@@ -5140,7 +5140,7 @@
 5140,Jose Page,184.058919,Jose,Page,True
 5141,Matthew Kramer,265.3917788,Matthew,Kramer,True
 5142,Regina Barrera,185.2134145,Regina,Barrera,True
-5143,Dr. Sean George,53.76304189,Dr.,Sean,False
+5143,Sean George,53.76304189,Sean,George,False
 5144,Cody Hernandez,180.9265991,Cody,Hernandez,True
 5145,Hunter Smith,175.2181525,Hunter,Smith,True
 5146,Andrea Burke,256.3026305,Andrea,Burke,True
@@ -5203,7 +5203,7 @@
 5204,Carrie Davis,295.0481315,Carrie,Davis,True
 5205,Michael Daniel,229.95157700000001,Michael,Daniel,True
 5206,Bryan Valenzuela,236.1493796,Bryan,Valenzuela,True
-5207,Mrs. Robin Garner,79.14737521,Mrs.,Robin,False
+5207,Robin Garner,79.14737521,Robin,Garner,False
 5208,Angel Thompson,284.7302014,Angel,Thompson,True
 5209,Christopher Morgan,216.01314019999998,Christopher,Morgan,True
 5210,Brittany Walker,163.1107737,Brittany,Walker,True
@@ -5272,7 +5272,7 @@
 5274,Christina Cannon,98.59414740000001,Christina,Cannon,False
 5275,Susan Lewis,269.3323662,Susan,Lewis,True
 5276,Pamela Sanchez,193.7780783,Pamela,Sanchez,True
-5277,Ms. Stacey Wiley DDS,200.39042959999998,Ms.,Stacey,True
+5277,Stacey Wiley DDS,200.39042959999998,Stacey,Wiley,True
 5278,Melissa Johnson DDS,201.45094840000002,Melissa,Johnson,True
 5279,Lori Morris,38.0476094,Lori,Morris,False
 5280,Daniel Soto,225.16214019999998,Daniel,Soto,True
@@ -5307,7 +5307,7 @@
 5309,Stacy Smith,161.8260635,Stacy,Smith,True
 5310,Carla Rodriguez,113.1454481,Carla,Rodriguez,True
 5311,Johnny Stout,134.002236,Johnny,Stout,True
-5312,Mrs. Jennifer Rodriguez,256.0154481,Mrs.,Jennifer,True
+5312,Jennifer Rodriguez,256.0154481,Jennifer,Rodriguez,True
 5313,Michelle Thompson,196.67546049999999,Michelle,Thompson,True
 5314,Lisa Lyons,148.9559785,Lisa,Lyons,True
 5315,Michael Coleman,262.20907630000005,Michael,Coleman,True
@@ -5334,7 +5334,7 @@
 5336,Stephanie Thomas,249.66672200000002,Stephanie,Thomas,True
 5337,Brianna Garcia,183.3322335,Brianna,Garcia,True
 5338,Shannon Berger,125.2597844,Shannon,Berger,True
-5339,Mrs. Kathleen Mays,238.16560660000002,Mrs.,Kathleen,True
+5339,Kathleen Mays,238.16560660000002,Kathleen,Mays,True
 5340,Michelle Park,150.40012030000003,Michelle,Park,True
 5341,Laura Reynolds,20.08924577,Laura,Reynolds,False
 5342,Ashley Kaiser,218.399504,Ashley,Kaiser,True
@@ -5420,7 +5420,7 @@
 5422,Denise Kennedy,233.46654280000004,Denise,Kennedy,True
 5423,Melissa Walsh,177.8587959,Melissa,Walsh,True
 5424,Leslie Spence,156.20119590000002,Leslie,Spence,True
-5425,Dr. Rachel Walker,144.43953269999997,Dr.,Rachel,True
+5425,Rachel Walker,144.43953269999997,Rachel,Walker,True
 5426,Donald Horn,13.06347134,Donald,Horn,False
 5427,Christopher Rojas,94.08806986,Christopher,Rojas,False
 5428,Robert Crawford,216.6530778,Robert,Crawford,True
@@ -5600,7 +5600,7 @@
 5602,Jeffrey Clark,239.4386554,Jeffrey,Clark,True
 5603,Melissa Santiago,128.2616391,Melissa,Santiago,True
 5604,Jason Adams,21.57128968,Jason,Adams,False
-5605,Mrs. Wendy Myers,263.6809245,Mrs.,Wendy,True
+5605,Wendy Myers,263.6809245,Wendy,Myers,True
 5606,Norman Wade,99.62709317,Norman,Wade,False
 5607,Roberto Brown,215.03934669999998,Roberto,Brown,True
 5608,Casey Wright,280.2032307,Casey,Wright,True
@@ -5702,7 +5702,7 @@
 5704,Alexandra Bell,143.3930959,Alexandra,Bell,True
 5705,Ann Wilson,225.51580069999997,Ann,Wilson,True
 5706,Colleen Snow,263.6734719,Colleen,Snow,True
-5707,Mrs. Lisa Pham,189.8902208,Mrs.,Lisa,True
+5707,Lisa Pham,189.8902208,Lisa,Pham,True
 5708,Scott Taylor,247.38296859999997,Scott,Taylor,True
 5709,Donald Wood,210.8807336,Donald,Wood,True
 5710,Dawn Salas,143.54319850000002,Dawn,Salas,True
@@ -5770,7 +5770,7 @@
 5774,Alan Smith,136.7173873,Alan,Smith,True
 5775,Lynn Petersen,119.28870400000001,Lynn,Petersen,True
 5776,Alex Williams,125.2351462,Alex,Williams,True
-5777,Mrs. Maria Johnson,140.61800019999998,Mrs.,Maria,True
+5777,Maria Johnson,140.61800019999998,Maria,Johnson,True
 5778,Teresa Ramirez,68.89411817,Teresa,Ramirez,False
 5779,Jessica Williams,211.29273369999999,Jessica,Williams,True
 5780,Eric Stokes,141.4352496,Eric,Stokes,True
@@ -5901,7 +5901,7 @@
 5906,Steve Holloway,231.4019805,Steve,Holloway,True
 5907,Clayton Santana,260.98553369999996,Clayton,Santana,True
 5908,Christopher Henson,210.34695330000002,Christopher,Henson,True
-5909,Dr. Steven Barnes,28.35577086,Dr.,Steven,False
+5909,Steven Barnes,28.35577086,Steven,Barnes,False
 5910,Nicole Ray,282.6651827,Nicole,Ray,True
 5911,Regina Lee,152.2753185,Regina,Lee,True
 5912,Taylor Foster,77.92214881,Taylor,Foster,False
@@ -5916,7 +5916,7 @@
 5921,Michael Ramirez,102.71291629999999,Michael,Ramirez,True
 5922,Robert Moore,147.9886361,Robert,Moore,True
 5923,Toni Baker,263.90450780000003,Toni,Baker,True
-5924,Mrs. Miranda Terry,123.19228229999999,Mrs.,Miranda,True
+5924,Miranda Terry,123.19228229999999,Miranda,Terry,True
 5925,Jenna Richardson,218.69237999999999,Jenna,Richardson,True
 5926,Danielle Buchanan,12.44346621,Danielle,Buchanan,False
 5927,Rebecca Allen,76.27399989,Rebecca,Allen,False
@@ -5972,7 +5972,7 @@
 5978,James Jones,28.33170057,James,Jones,False
 5979,Richard May,291.91261910000003,Richard,May,True
 5980,Martin Terry,63.13713822,Martin,Terry,False
-5981,Dr. Jordan Singleton,151.0014632,Dr.,Jordan,True
+5981,Jordan Singleton,151.0014632,Jordan,Singleton,True
 5982,Sabrina Bond,57.70643102,Sabrina,Bond,False
 5983,Erica Weaver,182.9458108,Erica,Weaver,True
 5984,Bethany Rodriguez,55.92263829999999,Bethany,Rodriguez,False
@@ -6168,7 +6168,7 @@
 6176,Matthew Lee,107.3259428,Matthew,Lee,True
 6177,Nichole Ellis,77.70976176,Nichole,Ellis,False
 6178,Derek Adams,153.9316382,Derek,Adams,True
-6179,Mrs. Sara Tran,180.16105149999999,Mrs.,Sara,True
+6179,Sara Tran,180.16105149999999,Sara,Tran,True
 6180,Gary Jones,263.6305882,Gary,Jones,True
 6181,Julie Robbins,180.9502903,Julie,Robbins,True
 6182,Mark King,281.226683,Mark,King,True
@@ -6450,7 +6450,7 @@
 6460,Tamara Taylor,123.1774351,Tamara,Taylor,True
 6461,Mark Salinas,65.60168668,Mark,Salinas,False
 6462,Thomas Blankenship,132.7947467,Thomas,Blankenship,True
-6463,Dr. Traci Rice,286.09288230000004,Dr.,Traci,True
+6463,Traci Rice,286.09288230000004,Traci,Rice,True
 6464,Angela Cox,42.33721435,Angela,Cox,False
 6465,Janet Young,13.80917322,Janet,Young,False
 6466,Francisco Johnston,112.1605744,Francisco,Johnston,True
@@ -6527,7 +6527,7 @@
 6537,Stephanie Underwood,69.43177519,Stephanie,Underwood,False
 6538,Shane Williams,281.8903101,Shane,Williams,True
 6539,Joseph Reed,42.381888399999994,Joseph,Reed,False
-6540,Dr. Elizabeth Martin,140.0494611,Dr.,Elizabeth,True
+6540,Elizabeth Martin,140.0494611,Elizabeth,Martin,True
 6541,David Martin,221.0429141,David,Martin,True
 6542,Stephanie Arnold,181.2768702,Stephanie,Arnold,True
 6543,Rebecca Richardson,4.380505829,Rebecca,Richardson,False
@@ -6547,7 +6547,7 @@
 6557,Erica Campbell,100.2705845,Erica,Campbell,True
 6558,Anna Green,240.62850299999997,Anna,Green,True
 6559,Kimberly Howell,207.2217108,Kimberly,Howell,True
-6560,Dr. Michelle Hamilton,57.90941988,Dr.,Michelle,False
+6560,Michelle Hamilton,57.90941988,Michelle,Hamilton,False
 6561,Tami Ferguson,225.80707769999998,Tami,Ferguson,True
 6562,Cynthia Santana,166.3523842,Cynthia,Santana,True
 6563,Seth Johnston,110.2678595,Seth,Johnston,True
@@ -6689,7 +6689,7 @@
 6702,Robert Jones,285.6601521,Robert,Jones,True
 6703,Ashley Ball,127.7089986,Ashley,Ball,True
 6704,Theresa Maldonado,125.47461159999999,Theresa,Maldonado,True
-6705,Mrs. Sheryl Schmidt,112.2217893,Mrs.,Sheryl,True
+6705,Sheryl Schmidt,112.2217893,Sheryl,Schmidt,True
 6706,Nicholas Rogers,7.9841947,Nicholas,Rogers,False
 6707,Richard Warren,72.01716766,Richard,Warren,False
 6708,Christopher Foster,196.268454,Christopher,Foster,True
@@ -6761,7 +6761,7 @@
 6775,Dennis Olson,37.17993867,Dennis,Olson,False
 6776,Mark Gordon,196.3444276,Mark,Gordon,True
 6777,Maria Johnson MD,227.0463062,Maria,Johnson,True
-6778,Dr. Megan Hayes MD,168.0497319,Dr.,Megan,True
+6778,Megan Hayes MD,168.0497319,Megan,Hayes,True
 6779,Pamela Patterson,41.33255885,Pamela,Patterson,False
 6780,Jason Carter,158.0116944,Jason,Carter,True
 6781,William Austin,76.08931925,William,Austin,False
@@ -6850,7 +6850,7 @@
 6864,Hayden Bates,264.9041529,Hayden,Bates,True
 6865,David Hernandez,242.1078818,David,Hernandez,True
 6866,Dale Robertson,277.99588680000005,Dale,Robertson,True
-6867,Mrs. Christina Hall,235.48092230000003,Mrs.,Christina,True
+6867,Christina Hall,235.48092230000003,Christina,Hall,True
 6868,Corey Oconnell,63.38865735,Corey,Oconnell,False
 6869,Nathan Deleon,3.3822685630000002,Nathan,Deleon,False
 6870,Zachary Wells,56.96634342,Zachary,Wells,False
@@ -6919,7 +6919,7 @@
 6933,Barbara Jones,98.95682176,Barbara,Jones,False
 6934,Joyce Hanson,19.96947696,Joyce,Hanson,False
 6935,Thomas Brown,197.27726840000003,Thomas,Brown,True
-6936,Dr. Laurie Robinson PhD,132.62555749999999,Dr.,Laurie,True
+6936,Laurie Robinson PhD,132.62555749999999,Laurie,Robinson,True
 6937,James Simpson,126.3667564,James,Simpson,True
 6938,Brian Brooks DVM,92.72231186,Brian,Brooks,False
 6939,Donald Meadows,75.52955235,Donald,Meadows,False
@@ -6929,7 +6929,7 @@
 6943,Joseph Guzman,240.65242039999998,Joseph,Guzman,True
 6944,Matthew White,175.415866,Matthew,White,True
 6945,Allison Morris,145.5763326,Allison,Morris,True
-6946,Miss Kelly Underwood,174.9500947,Miss,Kelly,True
+6946,Kelly Underwood,174.9500947,Kelly,Underwood,True
 6947,Richard Gallagher,282.1251375,Richard,Gallagher,True
 6948,Mason Rogers,282.3441974,Mason,Rogers,True
 6949,Aaron Anderson,269.740466,Aaron,Anderson,True
@@ -6965,7 +6965,7 @@
 6979,Patricia Adams,118.38283290000001,Patricia,Adams,True
 6980,Crystal White,216.6593348,Crystal,White,True
 6981,Anna Bell,299.25982999999997,Anna,Bell,True
-6982,Mrs. Meghan Franklin,290.7660505,Mrs.,Meghan,True
+6982,Meghan Franklin,290.7660505,Meghan,Franklin,True
 6983,Tracy Nelson,123.20917390000001,Tracy,Nelson,True
 6984,David James,52.01025451,David,James,False
 6985,Brandy Smith,38.87509986,Brandy,Smith,False
@@ -7068,7 +7068,7 @@
 7082,Caitlin Carpenter,299.63232630000005,Caitlin,Carpenter,True
 7083,David Gross,121.14644440000001,David,Gross,True
 7084,Laurie Salazar,46.31998278,Laurie,Salazar,False
-7085,Ms. Megan Fernandez,113.3119355,Ms.,Megan,True
+7085,Megan Fernandez,113.3119355,Megan,Fernandez,True
 7086,Lisa Mosley,158.77329609999998,Lisa,Mosley,True
 7087,Zachary Gonzales,162.8750781,Zachary,Gonzales,True
 7088,Joshua Kim,289.70079039999996,Joshua,Kim,True
@@ -7140,7 +7140,7 @@
 7154,Edwin Burns,142.13139089999999,Edwin,Burns,True
 7155,Jesse Sanchez,87.85419936,Jesse,Sanchez,False
 7156,Miranda Mclean,107.43841840000002,Miranda,Mclean,True
-7157,Dr. Brenda Butler PhD,24.38360505,Dr.,Brenda,False
+7157,Brenda Butler PhD,24.38360505,Brenda,Butler,False
 7158,Eddie Jones,155.76365380000001,Eddie,Jones,True
 7159,Deanna Rodriguez,135.6343745,Deanna,Rodriguez,True
 7160,Sierra Smith,285.68279989999996,Sierra,Smith,True
@@ -7409,7 +7409,7 @@
 7426,John Murphy,60.32697495,John,Murphy,False
 7427,Donald Fisher,134.6000615,Donald,Fisher,True
 7428,Samantha Morris,18.80165846,Samantha,Morris,False
-7429,Dr. Melissa Perkins,55.09655027,Dr.,Melissa,False
+7429,Melissa Perkins,55.09655027,Melissa,Perkins,False
 7430,Christine Davis,168.8936813,Christine,Davis,True
 7431,Angela Roberts,109.212972,Angela,Roberts,True
 7432,Jasmin Mosley,215.8646426,Jasmin,Mosley,True
@@ -7592,7 +7592,7 @@
 7610,Mary Hall,6.7820321660000005,Mary,Hall,False
 7611,Joanna Roberts,199.6406206,Joanna,Roberts,True
 7612,Nathan Taylor,207.1392596,Nathan,Taylor,True
-7613,Dr. Michael Barnes,13.68109809,Dr.,Michael,False
+7613,Michael Barnes,13.68109809,Michael,Barnes,False
 7614,Christina Underwood,116.51617730000001,Christina,Underwood,True
 7615,Felicia Myers,287.69754930000005,Felicia,Myers,True
 7616,Larry Lopez,16.61856651,Larry,Lopez,False
@@ -7680,7 +7680,7 @@
 7700,Chase Reeves,190.60809519999998,Chase,Reeves,True
 7701,Richard Norton,43.98039159,Richard,Norton,False
 7702,Benjamin Anderson,196.5543482,Benjamin,Anderson,True
-7703,Mrs. Angela Horne,224.6760591,Mrs.,Angela,True
+7703,Angela Horne,224.6760591,Angela,Horne,True
 7704,Marvin Dorsey,32.37840368,Marvin,Dorsey,False
 7705,Mitchell Mccarthy,61.84373161,Mitchell,Mccarthy,False
 7706,Shelby Johnson,228.5681076,Shelby,Johnson,True
@@ -7822,7 +7822,7 @@
 7842,David Lee,241.35727290000003,David,Lee,True
 7843,Shelley Jordan,184.8717366,Shelley,Jordan,True
 7844,James Dalton,1.487647984,James,Dalton,False
-7845,Dr. Brandi Carey,278.55559700000003,Dr.,Brandi,True
+7845,Brandi Carey,278.55559700000003,Brandi,Carey,True
 7846,Jose Price,192.0424162,Jose,Price,True
 7847,Larry Moore,38.86170696,Larry,Moore,False
 7848,Amber Hanson,184.9978965,Amber,Hanson,True
@@ -7904,7 +7904,7 @@
 7925,Kathleen Riddle,291.07482430000005,Kathleen,Riddle,True
 7926,Barry Gomez,162.7130898,Barry,Gomez,True
 7927,Samuel Howell,40.61795942,Samuel,Howell,False
-7928,Miss Laura Lee,91.2972184,Miss,Laura,False
+7928,Laura Lee,91.2972184,Laura,Lee,False
 7929,Brendan Osborne DVM,276.2792457,Brendan,Osborne,True
 7930,Sylvia Guerra,182.9708966,Sylvia,Guerra,True
 7931,Michael Farrell,226.43412599999996,Michael,Farrell,True
@@ -7916,7 +7916,7 @@
 7937,Daniel Marquez,226.33704049999997,Daniel,Marquez,True
 7938,Curtis Vasquez,118.56738610000001,Curtis,Vasquez,True
 7939,Anthony Miller,57.56305716,Anthony,Miller,False
-7940,Mrs. Lori Rowe,148.6442505,Mrs.,Lori,True
+7940,Lori Rowe,148.6442505,Lori,Rowe,True
 7941,Melissa Nash,21.07289451,Melissa,Nash,False
 7942,Michael Moran,58.18889720000001,Michael,Moran,False
 7943,Ann Price,108.60463030000001,Ann,Price,True
@@ -8147,11 +8147,11 @@
 8172,Tyler Daugherty,20.54925846,Tyler,Daugherty,False
 8173,Michael Lee,206.7975748,Michael,Lee,True
 8174,Destiny Black,81.46505362,Destiny,Black,False
-8175,Mrs. Stephanie Mitchell,9.182266696000001,Mrs.,Stephanie,False
+8175,Stephanie Mitchell,9.182266696000001,Stephanie,Mitchell,False
 8176,Phillip Mckenzie,87.42143441,Phillip,Mckenzie,False
 8177,Patrick Carter,255.5657465,Patrick,Carter,True
 8178,Matthew Mccall,297.2237005,Matthew,Mccall,True
-8179,Mrs. Misty Ramsey,4.357155154,Mrs.,Misty,False
+8179,Misty Ramsey,4.357155154,Misty,Ramsey,False
 8180,Valerie Clark,46.47167637,Valerie,Clark,False
 8181,Michael Matthews,206.75060349999998,Michael,Matthews,True
 8182,Laura Garrett,107.2507587,Laura,Garrett,True
@@ -8178,7 +8178,7 @@
 8203,Kimberly Noble,83.59244384,Kimberly,Noble,False
 8204,Matthew Williams,71.38662332,Matthew,Williams,False
 8205,Jason Pham DVM,218.0846739,Jason,Pham,True
-8206,Mrs. Kristen Smith,155.6247878,Mrs.,Kristen,True
+8206,Kristen Smith,155.6247878,Kristen,Smith,True
 8207,Steven Lawrence,69.32352649,Steven,Lawrence,False
 8208,Paul Jacobs,167.0160187,Paul,Jacobs,True
 8209,Sara Bradley,253.480513,Sara,Bradley,True
@@ -8219,10 +8219,10 @@
 8244,Joshua Young,83.56359155,Joshua,Young,False
 8245,Pamela Clements,212.9839496,Pamela,Clements,True
 8246,Jared Watson,71.23465669,Jared,Watson,False
-8247,Dr. Thomas Campbell MD,246.66249469999997,Dr.,Thomas,True
+8247,Thomas Campbell MD,246.66249469999997,Thomas,Campbell,True
 8248,Robert Morris,99.09374401,Robert,Morris,False
 8249,Maria Wallace,122.56767269999999,Maria,Wallace,True
-8250,Miss Meagan Brown,31.33352755,Miss,Meagan,False
+8250,Meagan Brown,31.33352755,Meagan,Brown,False
 8251,Thomas Burke,88.26128869,Thomas,Burke,False
 8252,Jamie Avila,65.74925169,Jamie,Avila,False
 8253,Benjamin Sanchez,30.76415227,Benjamin,Sanchez,False
@@ -8235,9 +8235,9 @@
 8260,Ryan Carpenter,124.15931529999999,Ryan,Carpenter,True
 8261,Mary Simmons,182.6302267,Mary,Simmons,True
 8262,Jonathan Bender,131.45535759999999,Jonathan,Bender,True
-8263,Dr. Jorge Ross,27.77878665,Dr.,Jorge,False
+8263,Jorge Ross,27.77878665,Jorge,Ross,False
 8264,Adrian Wright,94.12946526,Adrian,Wright,False
-8265,Dr. Lisa Merritt,250.64734810000002,Dr.,Lisa,True
+8265,Lisa Merritt,250.64734810000002,Lisa,Merritt,True
 8266,Robert Murray,117.0024227,Robert,Murray,True
 8267,Lori Cantu,162.47922519999997,Lori,Cantu,True
 8268,Emma Burgess,70.63762139,Emma,Burgess,False
@@ -8248,7 +8248,7 @@
 8273,David Blackwell,222.091393,David,Blackwell,True
 8274,Brandi Vazquez,107.4489254,Brandi,Vazquez,True
 8275,Larry Dillon,144.2092941,Larry,Dillon,True
-8276,Dr. Steven Wolfe,272.77130189999997,Dr.,Steven,True
+8276,Steven Wolfe,272.77130189999997,Steven,Wolfe,True
 8277,Edwin Ferguson,233.3239715,Edwin,Ferguson,True
 8279,Sylvia Kelly,9.728770867,Sylvia,Kelly,False
 8280,Sandra Acosta,295.8603685,Sandra,Acosta,True
@@ -8343,7 +8343,7 @@
 8370,Danielle Nguyen,82.0822973,Danielle,Nguyen,False
 8371,Michelle Martinez,32.61847953,Michelle,Martinez,False
 8372,Sabrina Reid,81.24100275,Sabrina,Reid,False
-8373,Mrs. Jennifer Murphy DVM,128.0813752,Mrs.,Jennifer,True
+8373,Jennifer Murphy DVM,128.0813752,Jennifer,Murphy,True
 8374,Jason Williams,142.3412262,Jason,Williams,True
 8375,Amy Love,170.69995930000002,Amy,Love,True
 8376,Russell Chandler,277.8980527,Russell,Chandler,True
@@ -8536,7 +8536,7 @@
 8567,Caroline Robles,181.57102959999997,Caroline,Robles,True
 8568,Samantha Zuniga,148.86304630000004,Samantha,Zuniga,True
 8569,Brandon Burns,269.3971414,Brandon,Burns,True
-8570,Mrs. Samantha Brooks,21.67250507,Mrs.,Samantha,False
+8570,Samantha Brooks,21.67250507,Samantha,Brooks,False
 8571,Elijah Ho,45.36640618,Elijah,Ho,False
 8572,Jennifer Simmons,2.259310271,Jennifer,Simmons,False
 8573,Kendra Haas,235.9539596,Kendra,Haas,True
@@ -8585,7 +8585,7 @@
 8616,Samuel Vasquez,14.61173033,Samuel,Vasquez,False
 8617,Mark Haynes,101.51147270000001,Mark,Haynes,True
 8618,Ian Malone,14.25961844,Ian,Malone,False
-8619,Miss Renee Williams,251.7050493,Miss,Renee,True
+8619,Renee Williams,251.7050493,Renee,Williams,True
 8620,Julie Hunt,281.5797854,Julie,Hunt,True
 8621,Brenda Hernandez,293.4895766,Brenda,Hernandez,True
 8622,Michael Fisher,185.30603369999997,Michael,Fisher,True
@@ -8734,7 +8734,7 @@
 8765,Larry Valentine Jr.,211.4230016,Larry,Valentine,True
 8766,Nicole Harris,126.87797379999999,Nicole,Harris,True
 8767,Jacob Hicks,89.92387573,Jacob,Hicks,False
-8768,Ms. Theresa Stewart MD,64.11402234,Ms.,Theresa,False
+8768,Theresa Stewart MD,64.11402234,Theresa,Stewart,False
 8769,Joann Thompson,99.16719145,Joann,Thompson,False
 8770,Crystal Marshall,161.37236380000002,Crystal,Marshall,True
 8771,Nicholas Neal,229.32095330000004,Nicholas,Neal,True
@@ -8791,7 +8791,7 @@
 8823,Sarah Bauer,274.79643050000004,Sarah,Bauer,True
 8824,Cynthia Collins,249.7444753,Cynthia,Collins,True
 8825,Ryan Stanton,274.7565726,Ryan,Stanton,True
-8826,Dr. David Elliott,127.90405049999998,Dr.,David,True
+8826,David Elliott,127.90405049999998,David,Elliott,True
 8827,Crystal Carr,37.89493067,Crystal,Carr,False
 8828,Christopher Garcia,292.0792371,Christopher,Garcia,True
 8830,Justin Tran,195.8112157,Justin,Tran,True
@@ -8834,7 +8834,7 @@
 8867,Virginia Anderson,221.3968253,Virginia,Anderson,True
 8868,Richard Hamilton,64.31871231,Richard,Hamilton,False
 8869,Michele Harris,175.74904630000003,Michele,Harris,True
-8870,Dr. Elizabeth Garner,295.0996081,Dr.,Elizabeth,True
+8870,Elizabeth Garner,295.0996081,Elizabeth,Garner,True
 8871,Michael Moon,70.81831562,Michael,Moon,False
 8872,Robert Williams,203.09219119999997,Robert,Williams,True
 8873,Monica Wallace,51.0949844,Monica,Wallace,False
@@ -8883,7 +8883,7 @@
 8916,Amanda Sanchez,100.2904309,Amanda,Sanchez,True
 8917,James Smith,75.88603978,James,Smith,False
 8918,Gregory Butler,277.3646438,Gregory,Butler,True
-8919,Dr. Gabriella Estrada,232.0715616,Dr.,Gabriella,True
+8919,Gabriella Estrada,232.0715616,Gabriella,Estrada,True
 8920,Paul Davidson,142.77479230000003,Paul,Davidson,True
 8921,Eric Murillo,169.7939914,Eric,Murillo,True
 8922,Laura Marks,175.1069017,Laura,Marks,True
@@ -8997,7 +8997,7 @@
 9032,Richard Charles,209.93960660000002,Richard,Charles,True
 9033,Maureen Adams,220.4425679,Maureen,Adams,True
 9034,Heather Diaz,155.67554219999997,Heather,Diaz,True
-9035,Mrs. Jennifer Black MD,66.63022809,Mrs.,Jennifer,False
+9035,Jennifer Black MD,66.63022809,Jennifer,Black,False
 9036,Emily Montgomery,51.40335449,Emily,Montgomery,False
 9037,Sarah Hayden,247.9773304,Sarah,Hayden,True
 9038,David Johnson,49.87378095,David,Johnson,False
@@ -9012,7 +9012,7 @@
 9047,Thomas Wall,70.43392043,Thomas,Wall,False
 9048,Jared Flores,89.68743146,Jared,Flores,False
 9049,Angela Calhoun,252.06711,Angela,Calhoun,True
-9050,Dr. Charles Fernandez DDS,98.43540102,Dr.,Charles,False
+9050,Charles Fernandez DDS,98.43540102,Charles,Fernandez,False
 9051,Amy Ramsey,65.79744129999999,Amy,Ramsey,False
 9052,Donald Mason,248.32910090000001,Donald,Mason,True
 9053,Joan Parsons,60.50474718,Joan,Parsons,False
@@ -9131,7 +9131,7 @@
 9166,Chad Bradshaw,160.8120076,Chad,Bradshaw,True
 9167,Tammy Beasley,213.7085801,Tammy,Beasley,True
 9168,Devon Green,164.9160265,Devon,Green,True
-9169,Dr. Christopher Jones,161.26332639999998,Dr.,Christopher,True
+9169,Christopher Jones,161.26332639999998,Christopher,Jones,True
 9170,Gregory Tran,26.85030417,Gregory,Tran,False
 9171,Donna Wilson,149.87493080000002,Donna,Wilson,True
 9172,Jerome Gomez,201.691513,Jerome,Gomez,True
@@ -9164,7 +9164,7 @@
 9200,John Hall,14.71568818,John,Hall,False
 9201,Lori Perez,256.466743,Lori,Perez,True
 9202,Ryan Washington,54.84114798,Ryan,Washington,False
-9203,Mrs. Carmen Clark,273.50150519999994,Mrs.,Carmen,True
+9203,Carmen Clark,273.50150519999994,Carmen,Clark,True
 9204,Melissa Sanchez,219.47124900000003,Melissa,Sanchez,True
 9205,Michelle Dixon,275.695052,Michelle,Dixon,True
 9206,Mark Maxwell,118.7109665,Mark,Maxwell,True
@@ -9352,10 +9352,10 @@
 9389,David Garcia,218.32011319999998,David,Garcia,True
 9390,Kelly Townsend,272.94629080000004,Kelly,Townsend,True
 9391,Tony Bartlett,110.48956000000001,Tony,Bartlett,True
-9392,Mrs. Jennifer Warren,262.7408779,Mrs.,Jennifer,True
+9392,Jennifer Warren,262.7408779,Jennifer,Warren,True
 9393,Jerry Li,73.52087639,Jerry,Li,False
 9394,Timothy Williams,172.2153472,Timothy,Williams,True
-9395,Ms. Lisa Sanchez MD,11.65443529,Ms.,Lisa,False
+9395,Lisa Sanchez MD,11.65443529,Lisa,Sanchez,False
 9396,Logan Goodman,211.6349344,Logan,Goodman,True
 9397,Kerri Thomas,64.79736182,Kerri,Thomas,False
 9398,Kelli Harris,150.0876258,Kelli,Harris,True
@@ -9381,7 +9381,7 @@
 9418,Julie Webb,73.68706016,Julie,Webb,False
 9419,Lauren Martinez,115.3610497,Lauren,Martinez,True
 9420,Christopher Barker,78.07072162,Christopher,Barker,False
-9421,Miss Kimberly Williams,101.8146007,Miss,Kimberly,True
+9421,Kimberly Williams,101.8146007,Kimberly,Williams,True
 9422,Lisa Wright,244.53608640000002,Lisa,Wright,True
 9423,Scott Wilkinson,171.61756780000002,Scott,Wilkinson,True
 9424,Andrew Allen,85.27743125,Andrew,Allen,False
@@ -9434,7 +9434,7 @@
 9471,Kara Burns,114.9141478,Kara,Burns,True
 9472,Mike Pruitt,21.64944413,Mike,Pruitt,False
 9473,Brittney Greer,116.32139380000001,Brittney,Greer,True
-9474,Dr. Katelyn Roman,231.42208109999999,Dr.,Katelyn,True
+9474,Katelyn Roman,231.42208109999999,Katelyn,Roman,True
 9475,Troy Moore,198.1157921,Troy,Moore,True
 9476,James Roy,250.6387173,James,Roy,True
 9477,Jacob Butler,146.71298149999998,Jacob,Butler,True
@@ -9491,7 +9491,7 @@
 9528,Theresa Carrillo,199.7745689,Theresa,Carrillo,True
 9529,Dustin Campbell,41.2627657,Dustin,Campbell,False
 9530,Sandy Thompson,122.9729804,Sandy,Thompson,True
-9531,Mrs. Tara Griffith PhD,54.81674785,Mrs.,Tara,False
+9531,Tara Griffith PhD,54.81674785,Tara,Griffith,False
 9532,Maria Jones,108.7366837,Maria,Jones,True
 9533,Rick Eaton,112.45654350000001,Rick,Eaton,True
 9534,Robert Burgess,270.56760089999995,Robert,Burgess,True
@@ -9590,7 +9590,7 @@
 9627,Mark Hudson,239.6381377,Mark,Hudson,True
 9628,Brian Roberts,70.30201120000001,Brian,Roberts,False
 9629,Jennifer Jones,110.85682800000001,Jennifer,Jones,True
-9630,Mrs. Catherine Pena,177.540257,Mrs.,Catherine,True
+9630,Catherine Pena,177.540257,Catherine,Pena,True
 9631,Tracy Aguirre,58.4299631,Tracy,Aguirre,False
 9632,Dana Taylor,136.1757072,Dana,Taylor,True
 9633,Jay Mills,61.36910371,Jay,Mills,False
@@ -9634,7 +9634,7 @@
 9671,Jonathan Hart,246.9086747,Jonathan,Hart,True
 9672,Brianna Edwards,53.34156503,Brianna,Edwards,False
 9673,William Hunt,246.13961290000003,William,Hunt,True
-9674,Ms. Cynthia Duncan DDS,185.8126816,Ms.,Cynthia,True
+9674,Cynthia Duncan DDS,185.8126816,Cynthia,Duncan,True
 9675,Kristen Sanchez,228.486829,Kristen,Sanchez,True
 9676,Janet Ayala,291.12187339999997,Janet,Ayala,True
 9677,Reginald Todd,147.348861,Reginald,Todd,True
@@ -9694,14 +9694,14 @@
 9731,Jennifer Garcia,39.12655843,Jennifer,Garcia,False
 9732,Dominique Stephens,156.11652719999998,Dominique,Stephens,True
 9733,Joshua Miller,274.8483422,Joshua,Miller,True
-9734,Mrs. Chloe Nelson,83.74485447,Mrs.,Chloe,False
+9734,Chloe Nelson,83.74485447,Chloe,Nelson,False
 9735,Patrick Le,100.2726329,Patrick,Le,True
 9736,Kristy Espinoza,208.57992380000002,Kristy,Espinoza,True
 9737,Frederick Terry,33.55464432,Frederick,Terry,False
 9738,Travis Richardson,198.68477819999998,Travis,Richardson,True
 9739,Rodney Yang,37.41029307,Rodney,Yang,False
 9740,Katie Waller,48.93321445,Katie,Waller,False
-9741,Ms. Sarah Holland,180.26849219999997,Ms.,Sarah,True
+9741,Sarah Holland,180.26849219999997,Sarah,Holland,True
 9742,Dennis Curtis,71.20665154,Dennis,Curtis,False
 9743,Derek Taylor,20.20200102,Derek,Taylor,False
 9744,Michelle Pittman,251.43758309999998,Michelle,Pittman,True
@@ -9766,7 +9766,7 @@
 9803,Erin Green,16.41297894,Erin,Green,False
 9804,Lauren Ortega,3.4300352189999996,Lauren,Ortega,False
 9805,Robert Espinoza,179.1510919,Robert,Espinoza,True
-9806,Ms. Diamond Miller,59.88278591,Ms.,Diamond,False
+9806,Diamond Miller,59.88278591,Diamond,Miller,False
 9807,Robert Hill,195.26634219999997,Robert,Hill,True
 9808,Courtney Kent,164.5621619,Courtney,Kent,True
 9809,Gerald Mccann,217.14425040000003,Gerald,Mccann,True
@@ -9859,7 +9859,7 @@
 9896,Melinda Hunter,54.1235184,Melinda,Hunter,False
 9897,Jeffrey Jones,22.49915881,Jeffrey,Jones,False
 9898,Ronald Gutierrez,286.6497063,Ronald,Gutierrez,True
-9899,Dr. Lindsay Jones,283.6756733,Dr.,Lindsay,True
+9899,Lindsay Jones,283.6756733,Lindsay,Jones,True
 9900,Destiny Cruz,272.8636558,Destiny,Cruz,True
 9901,Adam Stephens,222.0297994,Adam,Stephens,True
 9902,Katherine Hayes,9.610775198999999,Katherine,Hayes,False
@@ -9886,11 +9886,11 @@
 9923,Laura Berry,276.9680383,Laura,Berry,True
 9924,Ashlee Collins,194.98942209999998,Ashlee,Collins,True
 9925,Robert Mills,88.55918265,Robert,Mills,False
-9926,Dr. Kelly Taylor,234.03414840000002,Dr.,Kelly,True
+9926,Kelly Taylor,234.03414840000002,Kelly,Taylor,True
 9927,Brandon Sparks,152.633043,Brandon,Sparks,True
 9928,Devin George,40.12962479,Devin,George,False
 9929,David Schultz,282.38798080000004,David,Schultz,True
-9930,Dr. Daniel Rogers,264.0340016,Dr.,Daniel,True
+9930,Daniel Rogers,264.0340016,Daniel,Rogers,True
 9931,Kevin Thompson,277.9958772,Kevin,Thompson,True
 9932,Paul Johnson,257.5929192,Paul,Johnson,True
 9933,Erin Rivera,151.62989,Erin,Rivera,True
@@ -9934,7 +9934,7 @@
 9971,Shawn Coleman,100.0720005,Shawn,Coleman,True
 9972,Ryan Mejia,34.50059036,Ryan,Mejia,False
 9973,Gary Palmer,53.69925729,Gary,Palmer,False
-9974,Dr. Katrina Zavala MD,290.5036453,Dr.,Katrina,True
+9974,Katrina Zavala MD,290.5036453,Katrina,Zavala,True
 9975,Joseph Morris,136.00092560000002,Joseph,Morris,True
 9976,Craig Russell,156.87540790000003,Craig,Russell,True
 9977,Willie Rios,213.3044349,Willie,Rios,True
